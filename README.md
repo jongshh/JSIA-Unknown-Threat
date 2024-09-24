@@ -1,5 +1,7 @@
 # JSIA | Unknown Threat
 
+[![Title_Thumb](https://img.youtube.com/vi/UptqcsT9I7Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=UptqcsT9I7Q)
+
 **JSIA | Unknown Threat** is a contract pack for KSP Career Mode.
 
 In the past, there were various mission packs utilizing BDA, and I started this project hoping to continue that effort in the latest version.
@@ -13,6 +15,8 @@ In any case, the vehicles featured in this pack are designed to resemble real-wo
 Since the pack is still under development, bugs may occur, so I would appreciate it if you could report any issues in the issue tab.
 
 Also, while I regularly check the list of dependent mods, errors may occur, so please let me know if any bugs arise!
+
+![screenshot2436](https://github.com/user-attachments/assets/fa7c7e99-a83c-4f22-af8d-20e6fd761207)
 
 ## Crafts in this Pack
 
