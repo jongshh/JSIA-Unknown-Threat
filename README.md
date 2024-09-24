@@ -81,10 +81,8 @@ If you find any missing mods, please report them on the Discord server!
 
 (Note: Dependencies are not included in this list.)
 
-Checked Dependence Mod List (Works with 1.12.X)
-(Of course, they are also on the mod sheet (with links))
-
-https://docs.google.com/spreadsheets/d/1VZ0i9FgXNZKLybHH4LQEu_6AzNUXhfGn1atKMdY7ZOI/edit?usp=sharing
+### Checked Dependence Mod List (Works with 1.12.X)
+[(Of course, they are also on the mod sheet (with links))](https://docs.google.com/spreadsheets/d/1VZ0i9FgXNZKLybHH4LQEu_6AzNUXhfGn1atKMdY7ZOI/edit?usp=sharing)
 
 Breaking Ground (DLC; if you don't have it, replace the F-15C file in the optional folder, which disables Variable Intake)
 
