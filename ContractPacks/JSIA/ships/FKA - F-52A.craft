@@ -1,1268 +1,29 @@
-ship = FKA - F-52A
+ship = F-52A
 version = 1.12.3
 description = 
 type = SPH
-size = 8.64169502,3.29779816,12.0316563
+size = 8.64169407,3.23925519,12.0567703
 steamPublishedFileId = 0
 persistentId = 2747910235
 rot = 0,0,0,0
-missionFlag = ContractPacks/JSIA/Agencies/FKA
+missionFlag = Squad/Flags/JSI_flag1
 vesselType = Debris
 OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = ModuleManagerWatchDog=1.1.1|Scale_Redist=2.4.7|ModuleManager=4.2.3|000_AT_Utils=1.10.1|001_AnisotropicPartResizer=1.5.0|002_MultiAnimators=1.2.1|0_00_AT_Utils_UI=1.0.0|CC.UI=1.0.0|ConfigurableContainers=2.6.2|SubmodelResizer=1.0.0|ClickThroughBlocker=2.1.10|FilterExtensions=3.2.7|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|BlendshapeModelLoader=1.0.0|TexturesUnlimited=0.0.0|aaa_Toolbar=1.8.0|ToolbarControl=0.1.9|KSPe.Light.Recall=2.4.2|Attached=0.3.0|AttachedOnEditor=0.3.0|ChillingOut=0.3.0|Driftless=0.3.0|KSP-Recall=0.3.0|Refunding=0.3.0|Resourceful=0.3.0|AARS=1.0.0|RAT=1.0.0|ASETPropsIdentifier=1.5.0|AtmosphereAutopilot=1.6.0|AtmosphereAutopilot.UI=1.0.0|B9AnimationModules=1.6.0|B9PartSwitch=2.19.0|B9-PWings-Fork=0.45.1|BDAnimationModules=0.6.7|RNModules=1.2.1|BDArmory=1.6.12|CameraTools=1.29.2|CareerManagerContinued=1.3.6|Chatterer=0.9.99|CCK=5.1.0|ConformalDecals=0.2.14|ContractConfigurator=1.30.5|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.8.6|KerKonConConExt=1.30.5|CustomBarnKit=1.1.22|DeployableEngines=2.2.0|DistantObject=0.0.0|KSPe.Light.DOE=2.4.1|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EngineLightRelit=1.6.3|Atmosphere=2.3.3|CelestialShadows=2.3.3|CityLights=2.3.3|EVEManager=2.3.3|PartFX=2.3.3|PQSManager=2.3.3|ShaderLoader=2.3.3|Terrain=2.3.3|TextureConfig=2.3.3|Utils=2.3.3|_BuildManager=2.3.3|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|Firespitter=7.3.7660|FreeIva=0.2.18|HangerExtenderExtended=3.6.0|GPWS=0.4.0|HullcamVDSContinued=0.2.2|ImprovedUpdatedChaseCam=1.6.4|JSIAdvTransparentPods=0.1.24|JSIPartUtilities=0.5.0|RasterPropMonitor=0.31.13|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.3.0|KerbalJointReinforcement=3.6.1|System.Core=4.6.57|System.Xml=4.6.57|DeployableAeroSurfaces=1.0.0|KerbalWeatherProject=1.0.0|ACA=1.0.0|KIS=1.29.8039|KSPDev_Utils.2.6=2.6.7847|Kopernicus.Parser=1.0.0|Kopernicus=1.12.190|KronalUtils=1.0.0|KSP-AVC=1.4.1|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.23.0|KSPWheel=0.0.0|LazyPainter=1.0.0|IRSurfaceSampler=1.0.1|InfernalRobotics_v3=3.1.17|MechJeb2=2.14.2|System.Buffers=4.6.28619|StardustUtilities=0.0.0|WatchDogForInterstellarRedist=1.1.1|WatchDogForScaleRedist=1.1.1|WatchDogInstallChecker=1.1.1|AnalogGauges=0.8.0|NavUtilLib=0.8.0|NavUtilRPM=0.8.0|DockingPortAlignmentIndicator=6.10.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.0.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|NuclearExplosive=1.0.7596|PartAngleDisplay=0.4.1|PatchManager=0.0.17|PhysicsRangeExtender=1.21.0|PlanetShine=0.2.6|ProbeControlRoomRecontrolled=1.2.4|ProceduralFairings=6.5.0|ProceduralParts=2.5.8|QuantumStrutsContinued=1.7.5|RealChute=1.4.7845|RecoveryController=0.0.4|ReentryParticleEffectRenewed=1.8.1|Restock=0.1.0|RetractableLiftingSurface=0.2.1|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.7|SCANsat=1.20.4|SCANmechjeb=1.20.4|SCANsat.Unity=1.20.4|scatterer=0.878.0|Shabby=0.3.0|SM_MissilesCategoryMaster=0.0.0|SmokeScreen=2.8.14|SolverEngines=3.13.0|BDMk22=0.2.3|KSP_Log=1.2.0|ButtonManager=1.0.1|KSP_ColorPicker=1.1.0|KSP_PartHighlighter=1.1.0|SpaceTuxUtility=1.0.1|VesselModuleSave=1.0.1|KSPSteamCtrlr=0.0.1|StagedAnimation=1.0.0|SXTContinued=0.3.29|TestFlightAPI=2.2.0|TestFlight=2.2.0|TestFlightContracts=2.2.0|TestFlightCore=2.2.0|TextureReplacer=4.5.3|ThroughTheEyes=2.0.4|TUFX=1.0.5|KSPe.Light.TweakScale=2.5.2|Scale=2.4.7|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|Waterfall=0.0.0|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|EVAParachutes=0.2.0|VesselMover=1.12.0|VesselView=0.8.9|VesselViewPlugin=0.8.9|VesselViewRPM=0.8.9|VVDiscoDisplay=0.8.9|VVPartSelector=0.8.9|WaypointManager=2.8.3|WildBlueTools=1.0.0|KerbalActuators=1.0.0|WildBlueCore=1.0.0|ZeroMiniAVC=1.1.3|Deferred=1.2.0
-PART
-{
-	part = B9.Body.Mk2.Cockpit.Intake_4277970108
-	partName = Part
-	persistentId = 3569225048
-	pos = -1.04448605,9.10231113,2.81922317
-	attPos = 0,0.124116898,0
-	attPos0 = -1.04448605,9.10231113,2.81922317
-	rot = -0.707106829,0,0,-0.707106829
-	attRot = 0,0,0,-0.999999881
-	attRot0 = 0.707106769,0,0,0.707106769
-	mir = 1,1,1
-	symMethod = Mirror
-	autostrutMode = Heaviest
-	rigidAttachment = True
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 0
-	sameVesselCollision = False
-	modCost = 1866
-	modMass = 0.200000003
-	modSize = 0,0,0
-	link = Type35bombbay_4277992026
-	link = bahaHiddenVulcan_4277457894
-	attN = bottom,Type35bombbay_4277992026_0|-1.25|0_0|-1|0_0|-1.25|0_0|-1|0
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleCommand
-		isEnabled = True
-		hibernation = False
-		hibernateOnWarp = False
-		activeControlPointName = _default
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			MakeReferenceToggle
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			HibernateToggle
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleReactionWheel
-		isEnabled = True
-		actuatorModeCycle = 0
-		authorityLimiter = 100
-		stateString = Active
-		stagingEnabled = True
-		WheelState = Active
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			CycleAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			Activate
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			Deactivate
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			Toggle
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleResourceIntake
-		isEnabled = True
-		intakeEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ToggleAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleScienceExperiment
-		isEnabled = True
-		Deployed = False
-		Inoperable = False
-		cooldownToGo = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			DeployAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ResetAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleScienceContainer
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			CollectAllAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleDataTransmitter
-		isEnabled = True
-		xmitIncomplete = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			StartTransmissionAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = HitpointTracker
-		isEnabled = True
-		Hitpoints = 2125
-		Armor = 10
-		ArmorRemaining = 100
-		ArmorTypeNum = 1
-		HullTypeNum = 2
-		hullType = Aluminium
-		SelectedArmorType = None
-		maxHitPoints = 0
-		ArmorThickness = 0
-		ArmorSet = True
-		ExplodeMode = Never
-		FireFX = True
-		FireFXLifeTimeInSeconds = 5
-		Density = 2700
-		Diffusivity = 237
-		Ductility = 0.600000024
-		Hardness = 300
-		Strength = 200
-		SafeUseTemp = 993
-		radarReflectivity = 1
-		Cost = 0
-		vFactor = 1.82712211E-06
-		muParam1 = 1.37732458
-		muParam2 = 2.04939008
-		muParam3 = 4.5333333
-		muParam1S = 1.92650819
-		muParam2S = 2.65274119
-		muParam3S = 7.37037039
-		HEEquiv = 0.210114747
-		HEATEquiv = 0.55794096
-		maxForce = 50
-		maxTorque = 50
-		maxG = 50
-		maxSupportedArmor = 125
-		armorVolume = 16.8443966
-		ignitionTemp = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleSelfSealingTank
-		isEnabled = True
-		SSTank = False
-		InertTank = False
-		armoredCockpit = False
-		FireBottles = 0
-		FBRemaining = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = MechJebCore
-		isEnabled = True
-		running = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			OnOrbitProgradeAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnOrbitRetrogradeAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnOrbitNormalAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnOrbitAntinormalAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnOrbitRadialInAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnOrbitRadialOutAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnKillRotationAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnDeactivateSmartASSAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnLandsomewhereAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnLandTargetAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnPanicAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnTranslatronOffAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnTranslatronKeepVertAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnTranslatronZeroSpeedAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnTranslatronPlusOneSpeedAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnTranslatronMinusOneSpeedAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnTranslatronToggleHSAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			OnAscentAPToggleAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		MechJebLocalSettings
-		{
-			MechJebModuleMenu
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleRoverWindow
-			{
-				unlockParts = 
-				unlockTechs = fieldScience
-			}
-			MechJebModuleAttitudeAdjustment
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleAscentNavBall
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleLogicalStageTracking
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleRCSBalancerWindow
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleRoverController
-			{
-				ControlHeading = False
-				ControlSpeed = False
-				BrakeOnEject = False
-				BrakeOnEnergyDepletion = False
-				WarpToDaylight = False
-				StabilityControl = False
-				LimitAcceleration = False
-				unlockParts = 
-				unlockTechs = 
-				heading
-				{
-					_val = 0
-					_text = 0
-				}
-				speed
-				{
-					_val = 10
-					_text = 10
-				}
-			}
-			MechJebModuleSpaceplaneGuidance
-			{
-				runwayIndex = 0
-				unlockParts = 
-				unlockTechs = unmannedTech
-			}
-			MechJebModuleAscentPVG
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleInfoItems
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleSmartRcs
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleAscentClassic
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleSpaceplaneAutopilot
-			{
-				bBreakAsSoonAsLanded = False
-				unlockParts = 
-				unlockTechs = 
-				glideslope
-				{
-					_val = 2.5
-					_text = 2.5
-				}
-				approachSpeed
-				{
-					_val = 80
-					_text = 80
-				}
-				touchdownSpeed
-				{
-					_val = 60
-					_text = 60
-				}
-				maximumSafeBankAngle
-				{
-					_val = 25
-					_text = 25
-				}
-			}
-			MechJebModuleAirplaneAutopilot
-			{
-				HeadingHoldEnabled = False
-				AltitudeHoldEnabled = False
-				VertSpeedHoldEnabled = False
-				RollHoldEnabled = False
-				SpeedHoldEnabled = False
-				AltitudeTarget = 0
-				HeadingTarget = 90
-				RollTarget = 0
-				SpeedTarget = 0
-				VertSpeedTarget = 0
-				BankAngle = 30
-				unlockParts = 
-				unlockTechs = 
-				AccKp
-				{
-					_val = 0.5
-					_text = 0.5
-				}
-				AccKi
-				{
-					_val = 0.5
-					_text = 0.5
-				}
-				AccKd
-				{
-					_val = 0.0050000000000000001
-					_text = 0.005
-				}
-				PitKp
-				{
-					_val = 2
-					_text = 2
-				}
-				PitKi
-				{
-					_val = 1
-					_text = 1
-				}
-				PitKd
-				{
-					_val = 0.0050000000000000001
-					_text = 0.005
-				}
-				RolKp
-				{
-					_val = 0.5
-					_text = 0.5
-				}
-				RolKi
-				{
-					_val = 0.02
-					_text = 0.02
-				}
-				RolKd
-				{
-					_val = 0.5
-					_text = 0.5
-				}
-				YawKp
-				{
-					_val = 1
-					_text = 1
-				}
-				YawKi
-				{
-					_val = 0.25
-					_text = 0.25
-				}
-				YawKd
-				{
-					_val = 0.02
-					_text = 0.02
-				}
-				YawLimit
-				{
-					_val = 10
-					_text = 10
-				}
-				RollLimit
-				{
-					_val = 45
-					_text = 45
-				}
-				PitchDownLimit
-				{
-					_val = 15
-					_text = 15
-				}
-				PitchUpLimit
-				{
-					_val = 25
-					_text = 25
-				}
-			}
-			MechJebModuleDockingGuidance
-			{
-				unlockParts = 
-				unlockTechs = advUnmanned
-			}
-			MechJebModuleSettings
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleAscentGT
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleDebugArrows
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleSmartASS
-			{
-				mode = ORBITAL
-				target = OFF
-				advReference = INERTIAL
-				advDirection = FORWARD
-				forceRol = False
-				forcePitch = True
-				forceYaw = True
-				unlockParts = 
-				unlockTechs = flightControl
-				srfHdg
-				{
-					_val = 90
-					_text = 90
-				}
-				srfPit
-				{
-					_val = 90
-					_text = 90
-				}
-				srfRol
-				{
-					_val = 0
-					_text = 0
-				}
-				srfVelYaw
-				{
-					_val = 0
-					_text = 0
-				}
-				srfVelPit
-				{
-					_val = 0
-					_text = 0
-				}
-				srfVelRol
-				{
-					_val = 0
-					_text = 0
-				}
-				rol
-				{
-					_val = 0
-					_text = 0
-				}
-			}
-			MechJebModuleDockingAutopilot
-			{
-				forceRol = False
-				overrideSafeDistance = False
-				overrideTargetSize = False
-				unlockParts = 
-				unlockTechs = 
-				rol
-				{
-					_val = 0
-					_text = 0
-				}
-			}
-			ModExtensionDemo
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleThrustWindow
-			{
-				autostageSavedState = False
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleWarpHelper
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-				phaseAngle
-				{
-					_val = 0
-					_text = 0
-				}
-			}
-			MechJebModuleCustomWindowEditor
-			{
-				unlockParts = 
-				unlockTechs = flightControl
-			}
-			MechJebModuleAscentAutopilot
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleRendezvousAutopilotWindow
-			{
-				unlockParts = 
-				unlockTechs = advUnmanned
-			}
-			MechJebModuleNodeExecutor
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleNodeEditor
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleLandingAutopilot
-			{
-				deployGears = True
-				deployChutes = True
-				rcsAdjustment = True
-				unlockParts = 
-				unlockTechs = 
-				touchdownSpeed
-				{
-					_val = 0.5
-					_text = 0.5
-				}
-				limitGearsStage
-				{
-					val = 0
-					_text = 0
-				}
-				limitChutesStage
-				{
-					val = 0
-					_text = 0
-				}
-			}
-			MechJebModuleScript
-			{
-				minifiedGUI = False
-				selectedSlot = 0
-				selectedMemorySlotType = 0
-				activeSavepoint = -1
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleLandingGuidance
-			{
-				landingSiteIdx = 0
-				unlockParts = 
-				unlockTechs = unmannedTech
-			}
-			MechJebModuleLandingPredictions
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleTranslatron
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-				trans_spd
-				{
-					_val = 0
-					_text = 0
-				}
-			}
-			MechJebModuleAscentGuidance
-			{
-				unlockParts = 
-				unlockTechs = unmannedTech
-			}
-			MechJebModuleRendezvousAutopilot
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleWaypointWindow
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleWaypointHelpWindow
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleTargetController
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleManeuverPlanner
-			{
-				unlockParts = 
-				unlockTechs = advFlightControl
-			}
-			MechJebModuleStageStats
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleAirplaneGuidance
-			{
-				showpid = False
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleGuidanceController
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleRendezvousGuidance
-			{
-				unlockParts = 
-				unlockTechs = advUnmanned
-			}
-			MechJebModuleAscentClassicMenu
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleCustomInfoWindow
-			{
-			}
-			MechJebModuleCustomInfoWindow
-			{
-			}
-			MechJebModuleCustomInfoWindow
-			{
-			}
-			MechJebModuleCustomInfoWindow
-			{
-			}
-			MechJebModuleCustomInfoWindow
-			{
-			}
-			MechJebModuleCustomInfoWindow
-			{
-			}
-			MechJebModuleCustomInfoWindow
-			{
-			}
-			MechJebModuleCustomInfoWindow
-			{
-			}
-			MechJebModuleCustomInfoWindow
-			{
-			}
-			MechJebModuleWarpController
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleDeployableAntennaController
-			{
-				prev_shouldDeploy = False
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleSolarPanelController
-			{
-				prev_shouldDeploy = False
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleThrustController
-			{
-				limitThrottle = False
-				limiterMinThrottle = False
-				electricThrottle = False
-				unlockParts = 
-				unlockTechs = 
-				maxThrottle
-				{
-					_val = 1
-					_text = 100
-				}
-				minThrottle
-				{
-					_val = 0.050000000000000003
-					_text = 5
-				}
-				electricThrottleLo
-				{
-					_val = 0.050000000000000003
-					_text = 5
-				}
-				electricThrottleHi
-				{
-					_val = 0.14999999999999999
-					_text = 15
-				}
-			}
-			MechJebModuleRCSController
-			{
-				unlockParts = 
-				unlockTechs = 
-				Tf
-				{
-					_val = 1
-					_text = 1
-				}
-				Kp
-				{
-					_val = 0.12492219800962338
-					_text = 0.124922198009623
-				}
-				Ki
-				{
-					_val = 0.0073611111111111091
-					_text = 0.00736111111111111
-				}
-				Kd
-				{
-					_val = 0.53000000000000003
-					_text = 0.53
-				}
-			}
-			MechJebModuleRCSBalancer
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleAttitudeController
-			{
-				unlockParts = 
-				unlockTechs = 
-				MJAttitudeController
-				{
-				}
-				KosAttitudeController
-				{
-				}
-				HybridController
-				{
-				}
-				BetterController
-				{
-				}
-			}
-			MechJebModuleStagingController
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleFlightRecorder
-			{
-				markUT = 0
-				deltaVExpended = 0
-				dragLosses = 0
-				gravityLosses = 0
-				steeringLosses = 0
-				markLAN = 0
-				markLatitude = 0
-				markLongitude = 0
-				markAltitude = 0
-				markBodyIndex = 1
-				maxDragGees = 0
-				unlockParts = 
-				unlockTechs = 
-			}
-			MechJebModuleFlightRecorderGraph
-			{
-				unlockParts = 
-				unlockTechs = 
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = GeometryPartModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FARAeroPartModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FARPartModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = SimpleRepaint
-		currentSubtype = SR_Original
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = AttachedOnEditor
-		isEnabled = True
-		active = True
-		originalPos = (-1.04448605, 9.10231113, 2.81922317)
-		originalRotation = (-0.707106829, 0, 0, -0.707106829)
-		moduleVersion = 6
-		stagingEnabled = True
-		originalAttachNodePos = (0.0, -1.3, 0.0)
-		originalAttachNodeSize = 1
-		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
-		originalAttachNodeOffset = (0.0, 0.0, 0.0)
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleKrEjectPilot
-		isEnabled = True
-		minAirPressureToOpen = 0.0399999991
-		selectedChute = 0
-		ChooseOption = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			Eject
-			{
-				actionGroup = Abort
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleTripLogger
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		Log
-		{
-			flight = 0
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleKISInventory
-		isEnabled = True
-		invName = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleIREditorHelper
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 150
-		maxAmount = 150
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-	RESOURCE
-	{
-		name = MonoPropellant
-		amount = 15
-		maxAmount = 15
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-	RESOURCE
-	{
-		name = IntakeAir
-		amount = 1.75
-		maxAmount = 1.75
-		flowState = True
-		isTweakable = False
-		hideFlow = False
-		isVisible = False
-		flowMode = Both
-	}
-}
+_modVersions = KSPe.InstallChecker=1.1.0|KSPe=2.5.4|Scale_Redist=2.4.8|KSPUpgradeScriptFix=1.0.0|ModuleManager=4.2.3|000_AT_Utils=1.10.1|001_AnisotropicPartResizer=1.5.0|0_00_AT_Utils_UI=1.0.0|CC.UI=1.0.0|ConfigurableContainers=2.6.2|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|KSPBurst=1.5.5|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.IO.Compression.FileSystem=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=0.0.0|Unity.Burst.Unsafe=1.0.0|Unity.Collections=0.0.0|Unity.Jobs=0.0.0|Unity.Mathematics=1.0.0|KSPAPIExtensions=2.5.4|KSPe.External=2.5.4|KSPe.HMI=2.5.4|KSPe.System=2.5.4|KSPe.UI=2.5.4|TinyJSON=1.3.0|BlendshapeModelLoader=1.6.1|TexturesUnlimited=1.6.1|aaa_Toolbar=1.8.1|ToolbarControl=0.1.9|KSPe.Light.Recall=2.5.2|Attached=0.5.0|AttachedOnEditor=0.5.0|ChillingOut=0.5.0|Driftless=0.5.0|KSP-Recall=0.5.0|Refunding=0.5.0|Resourceful=0.5.0|AARS=1.0.0|RAT=1.0.0|AirplanePlus=26.6.2|KSPe.Light.APP=2.5.3|AtmosphereAutopilot.UI=1.0.0|AtmosphereAutopilot=1.6.1|B9PartSwitch=2.20.0|B9-PWings-Fork=0.46.0|BDAnimationModules=0.6.7|RNModules=1.2.1|BDArmory=1.7.1|CameraTools=1.35.0|ConformalDecals=0.2.14|ContractConfigurator=1.30.5|CustomPreLaunchChecks=1.8.1|KerbalKonstructs=1.8.7|KerKonConConExt=1.30.5|DeployableEngines=2.2.0|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|Atmosphere=2.3.3|CelestialShadows=2.3.3|CityLights=2.3.3|EVEManager=2.3.3|PartFX=2.3.3|PQSManager=2.3.3|ShaderLoader=2.3.3|Terrain=2.3.3|TextureConfig=2.3.3|Utils=2.3.3|_BuildManager=2.3.3|FerramAerospaceResearch.Base=0.16.1|ModularFlightIntegrator=1.2.10|FerramAerospaceResearch=0.16.1|ferramGraph=1.3.0|Firespitter=7.3.7660|HangerExtenderExtended=3.6.0|HullcamVDSContinued=0.2.2|ImprovedUpdatedChaseCam=1.6.4|KAS-API-v2=2.0.7239|KAS=1.12.8285|KSPDev_Utils.2.7=2.7.0|KAX=2.8.1|KSPe.Light.KAX=2.4.2|KerbalJointReinforcement=3.7.5|DeployableAeroSurfaces=1.0.0|ACA=1.0.0|Kopernicus.Parser=1.0.0|Kopernicus=1.12.214|0_MultipleModuleInPartAPI=1.0.0|System.Buffers=4.6.28619|System.Memory=4.6.28619|System.Numerics=4.6.57|KSPCommunityFixes=1.35.2|System.Numerics.Vectors=4.6.57|System.Text.Encoding.CodePages=5.0.20|KSPWheel=0.0.0|LazyPainter=1.0.0|IRSurfaceSampler=1.0.1|InfernalRobotics_v3=3.1.17|StardustUtilities=0.0.0|WatchDogForInterstellarRedist=1.1.2|WatchDogForScaleRedist=1.1.2|WatchDogInstallChecker=1.1.2|WatchDogPDLauncher=1.1.2|NearFutureElectrical=1.0.0|NFPropUtils=1.0.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|PhysicsRangeExtender=1.21.0|ProceduralParts=2.5.9|RealChute=1.4.7845|ReentryParticleEffectRenewed=1.8.1|RetractableLiftingSurface=0.2.1|RocketSoundEnhancement.Unity=1.0.0|RocketSoundEnhancement=0.9.11|scatterer=0.880.0|Shabby=0.4.0|SM_MissilesCategoryMaster=0.0.0|SmokeScreen=2.8.14|BDMk22=0.2.3|KSP_Log=1.2.0|ButtonManager=1.0.1|KSP_ColorPicker=1.1.0|KSP_PartHighlighter=1.1.0|SpaceTuxUtility=1.0.1|VesselModuleSave=1.0.1|KSPSteamCtrlr=0.0.1|SXTContinued=0.3.29|SystemHeat=0.1.0|TextureReplacer=4.5.3|TUFX=1.1.0|KSPe.Light.TweakScale=2.5.4|Scale=2.4.8|TweakScale.WatchDog=2.4.8|TweakScaleCompanion_Frameworks=0.4.0|TweakScalerTestFlightCore=0.4.0|Waterfall=0.0.0|TweakScalerWaterfallFX=0.4.0|TweakScaleCompanion_FS=1.3.0|TweakScalerFSBuoyancy=1.3.0|TweakScaleCompanion_KIAS=1.1.0|TweakScalerKISInventory=1.1.0|TweakScaleCompanion_PKMC=2.2.1|UbioWeldingLtd=2.6.0|EVAParachutes=0.2.0|KerbalActuators=1.0.0|ZeroMiniAVC=1.1.3|Deferred=1.2.5
 PART
 {
 	part = Type35bombbay_4277992026
 	partName = Part
-	persistentId = 1843890268
-	pos = -1.04448605,8.97300339,-0.673735857
-	attPos = 0,0.0471022129,0.129306793
-	attPos0 = 0,-3.54000044,4.76837158E-07
-	rot = -0.686456382,0,0,-0.727171123
-	attRot = -0.0795216933,0,0,0.996833146
-	attRot0 = -0.0287896655,0,0,0.999585509
+	persistentId = 2566466037
+	pos = -1.20816243,2.15917015,-1.32679868
+	attPos = 1.12984693,-12.6866064,1.06151378
+	attPos0 = -1.12984693,9.35723495,-0.972999215
+	rot = 0.686648607,0,0,0.726989627
+	attRot = -0.779290855,0,0,0.626662672
+	attRot0 = -0.0285253823,0,0,0.999593139
 	mir = 1,1,1
 	symMethod = Mirror
 	autostrutMode = Heaviest
@@ -1279,7 +40,6 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = mk2.1m.Bicoupler_4277985526
-	link = B9.Utility.Landing.Gear.HDG1AL_4277604792
 	link = ksp.r.largeBatteryPack_4277476532
 	link = ksp.r.largeBatteryPack_4277476420
 	link = bahaECMJammer_4277473956
@@ -1298,7 +58,7 @@ PART
 	link = B9.Aero.Wing.Procedural.TypeA_4289337880
 	link = B9.Aero.Wing.Procedural.TypeA_4289360582
 	link = baha20mmAmmo_4277443722
-	attN = top,B9.Body.Mk2.Cockpit.Intake_4277970108_0|2.28999996|0_0|1|0_0|2.28999996|0_0|1|0
+	attN = top,quizTechMk2ThunderboltCockpit_4284994570_0|2.28999996|0_0|1|0_0|2.28999996|0_0|1|0
 	attN = bottom,mk2.1m.Bicoupler_4277985526_0|-2.43899989|0_0|-1|0_0|-2.43899989|0_0|-1|0
 	EVENTS
 	{
@@ -1320,16 +80,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -1346,6 +96,16 @@ PART
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
 		{
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
@@ -1527,6 +287,40 @@ PART
 	}
 	MODULE
 	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 89048.0
+		OriginalResourcesCost = 160.0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = HitpointTracker
 		isEnabled = True
 		Hitpoints = 7900
@@ -1693,17 +487,18 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.04448605, 8.97300339, -0.673735857)
-		originalRotation = (-0.686456382, 0, 0, -0.727171123)
+		originalPos = (-1.20816243, 2.15917015, -1.32679868)
+		originalRotation = (0.686648607, 0, 0, 0.726989627)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 2.3, 0.0)
-		originalAttachNodeSize = 1
-		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
-		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		originalAttachNodePos = (0.0, -2.4, 0.0)
 		originalAttachNodeSize = 1
+		originalAttachNodeSize = 1
+		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
 		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
+		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		EVENTS
 		{
@@ -1746,11 +541,11 @@ PART
 {
 	part = mk2.1m.Bicoupler_4277985526
 	partName = Part
-	persistentId = 3311858032
-	pos = -1.04448605,8.85046577,-3.90361619
+	persistentId = 100686035
+	pos = -1.20816243,2.03834033,-4.55674934
 	attPos = 0,0.14500308,-0.0635588467
 	attPos0 = 0,-3.37650084,2.23517318E-07
-	rot = 0.714262605,0,0,0.699878097
+	rot = -0.714447618,0,0,-0.69968915
 	attRot = 0.0389554016,0,0,0.999240935
 	attRot0 = -0.0389553718,0,0,-0.999240935
 	mir = 1,1,1
@@ -1803,18 +598,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -1835,6 +618,18 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
 	}
 	PARTDATA
 	{
@@ -1843,9 +638,44 @@ PART
 	{
 		name = ModuleCargoPart
 		isEnabled = True
+		packedVolume = -1
 		beingAttached = False
 		beingSettled = False
 		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 538.4546
+		OriginalResourcesCost = 0
+		OriginalModulesCost = -321.5454
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -1977,21 +807,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleRestockModifyMaterials
-		isEnabled = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = KSPTextureSwitch
 		isEnabled = True
 		currentTextureSet = MWNN_Stock_Paint_mk2Adapters
@@ -2087,520 +902,23 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.04448605, 8.85046577, -3.90361619)
-		originalRotation = (0.714262605, 0, 0, 0.699878097)
+		originalPos = (-1.20816243, 2.03834033, -4.55674934)
+		originalRotation = (-0.714447618, 0, 0, -0.69968915)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.9, 0.0)
-		originalAttachNodeSize = 1
-		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
-		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		originalAttachNodePos = (0.6, -0.9, 0.0)
-		originalAttachNodeSize = 1
-		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
-		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		originalAttachNodePos = (-0.6, -0.9, 0.0)
 		originalAttachNodeSize = 1
+		originalAttachNodeSize = 1
+		originalAttachNodeSize = 1
+		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
+		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
 		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
 		originalAttachNodeOffset = (0.0, 0.0, 0.0)
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleIREditorHelper
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = B9.Utility.Landing.Gear.HDG1AL_4277604792
-	partName = Part
-	persistentId = 539443195
-	pos = -1.04448605,8.40828609,0.897433639
-	attPos = 0,-0.410439849,-0.0942472816
-	attPos0 = 0,1.94649851,0.74845767
-	rot = 0.0047570169,-3.70908415E-10,-5.94168181E-09,0.999988794
-	attRot = 0.0335426927,-5.70706765E-16,2.87556648E-16,0.999437213
-	attRot0 = 0.682989478,4.34841718E-09,4.06600398E-09,-0.730428278
-	mir = 1,1,1
-	symMethod = Mirror
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	sameVesselCollision = False
-	modCost = -248.990768
-	modMass = -0.0448632017
-	modSize = 0,0,0
-	srfN = srfAttach,Type35bombbay_4277992026,1,0|0|0,0|1|0,0|0|0
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = KSPWheelBase
-		isEnabled = True
-		frictionControl = 1
-		showControls = True
-		springRating = 0.5
-		dampRatio = 0.649999976
-		wheelGroup = 0
-		scale = 0.819999993
-		antiRoll = 0
-		label = 
-		persistentState = DEPLOYED
-		persistentData = 0,0
-		grounded = False
-		initializedEditor = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPWheelRotation
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPWheelSteering
-		isEnabled = True
-		steeringLocked = False
-		invertSteering = False
-		steeringLimit = 1
-		steeringLimitHigh = 1
-		steeringResponse = 10
-		steeringBias = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			steeringLockAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			steeringInvertAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPWheelSuspension
-		isEnabled = True
-		lockSuspension = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			suspensionLockAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPWheelBrakes
-		isEnabled = True
-		brakeLimit = 100
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			brakesAction
-			{
-				actionGroup = Brakes
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPWheelDeployment
-		isEnabled = True
-		oneShotTriggered = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			toggleGearAction
-			{
-				actionGroup = Gear
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPWheelDamage
-		isEnabled = True
-		wheelWear = 0
-		motorWear = 0
-		suspensionWear = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPWheelDustEffects
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = textureSwitch
-		currentSubtype = Unshielded
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleTestSubject
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = HitpointTracker
-		isEnabled = True
-		Hitpoints = 175
-		Armor = 10
-		ArmorRemaining = 100
-		ArmorTypeNum = 1
-		HullTypeNum = 2
-		hullType = Aluminium
-		SelectedArmorType = None
-		maxHitPoints = 0
-		ArmorThickness = 0
-		ArmorSet = True
-		ExplodeMode = Never
-		FireFX = True
-		FireFXLifeTimeInSeconds = 5
-		Density = 2700
-		Diffusivity = 237
-		Ductility = 0.600000024
-		Hardness = 300
-		Strength = 200
-		SafeUseTemp = 993
-		radarReflectivity = 1
-		Cost = 0
-		vFactor = 1.82712211E-06
-		muParam1 = 1.37732458
-		muParam2 = 2.04939008
-		muParam3 = 4.5333333
-		muParam1S = 1.92650819
-		muParam2S = 2.65274119
-		muParam3S = 7.37037039
-		HEEquiv = 0.210114747
-		HEATEquiv = 0.55794096
-		maxForce = 30000
-		maxTorque = 30000
-		maxG = 50
-		maxSupportedArmor = 30
-		armorVolume = 5.09900808
-		ignitionTemp = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleSelfSealingTank
-		isEnabled = True
-		SSTank = False
-		InertTank = False
-		armoredCockpit = False
-		FireBottles = 0
-		FBRemaining = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = GPWSGear
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = GeometryPartModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FARAeroPartModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FARPartModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartInfo
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = SimpleRepaint
-		currentSubtype = SR_Original
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = AttachedOnEditor
-		isEnabled = True
-		active = True
-		originalPos = (-1.04448605, 8.40828609, 0.897433639)
-		originalRotation = (0.0047570169, -3.70908415E-10, -5.94168181E-09, 0.999988794)
-		moduleVersion = 6
-		stagingEnabled = True
+		originalAttachNodeOffset = (0.0, 0.0, 0.0)
+		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		EVENTS
 		{
 		}
@@ -2631,11 +949,11 @@ PART
 {
 	part = KF-ALG-Small_4277602932
 	partName = Part
-	persistentId = 1944385398
-	pos = -1.8574369,8.66327095,-3.22612977
-	attPos = 0.354904175,0.176627636,-0.0714982301
+	persistentId = 880377258
+	pos = -2.00539827,1.86566806,-3.49869847
+	attPos = 0.370619178,0.556895852,-0.09432064
 	attPos0 = -1.16785502,0.504526615,0.244873077
-	rot = -0.0250143707,0.0138159841,-0.296629369,0.954565167
+	rot = -0.0247620642,0.0138944238,-0.296625793,0.954571843
 	attRot = 0,0,0,1
 	attRot0 = -0.699317157,-0.202202186,-0.217472807,0.650211871
 	mir = 1,1,1
@@ -2675,18 +993,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -2706,6 +1012,18 @@ PART
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
 		{
 			actionGroup = None
 			active = False
@@ -2748,7 +1066,7 @@ PART
 		isEnabled = True
 		strutRotation = -8
 		wheelRotation = 26.5718842
-		strutExtension = 1
+		strutExtension = 0.800000012
 		compTest = 1
 		animationTime = 1
 		isFlipped = True
@@ -2929,6 +1247,40 @@ PART
 	}
 	MODULE
 	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 550
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = HitpointTracker
 		isEnabled = True
 		Hitpoints = 275
@@ -2967,21 +1319,6 @@ PART
 		maxSupportedArmor = 60
 		armorVolume = 7.80437708
 		ignitionTemp = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = GPWSGear
-		isEnabled = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -3075,10 +1412,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.8574369, 8.66327095, -3.22612977)
-		originalRotation = (-0.0250143707, 0.0138159841, -0.296629369, 0.954565167)
+		originalPos = (-2.00539827, 1.86566806, -3.49869847)
+		originalRotation = (-0.0247620642, 0.0138944238, -0.296625793, 0.954571843)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -3109,11 +1447,11 @@ PART
 {
 	part = KF-ALG-Small_4277602628
 	partName = Part
-	persistentId = 3268146197
-	pos = -0.231535256,8.66327095,-3.22612786
-	attPos = -0.354904234,0.176629543,-0.0714982599
+	persistentId = 2594796752
+	pos = -0.410926521,1.86566806,-3.49869752
+	attPos = -0.370619118,0.556896806,-0.0943207294
 	attPos0 = 1.16785502,0.504526615,0.244873077
-	rot = -0.0250143707,-0.0138159841,0.296629369,0.954565167
+	rot = 0.0247620046,0.0138944089,-0.296625733,-0.954571843
 	attRot = 0,0,0,1
 	attRot0 = -0.699317157,0.202202216,0.217472851,0.650211811
 	mir = 1,1,1
@@ -3153,18 +1491,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -3184,6 +1510,18 @@ PART
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
 		{
 			actionGroup = None
 			active = False
@@ -3226,7 +1564,7 @@ PART
 		isEnabled = True
 		strutRotation = -8
 		wheelRotation = 26.5718842
-		strutExtension = 1
+		strutExtension = 0.800000012
 		compTest = 1
 		animationTime = 1
 		isFlipped = False
@@ -3407,6 +1745,40 @@ PART
 	}
 	MODULE
 	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 550
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = HitpointTracker
 		isEnabled = True
 		Hitpoints = 275
@@ -3445,21 +1817,6 @@ PART
 		maxSupportedArmor = 80
 		armorVolume = 8.22620201
 		ignitionTemp = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = GPWSGear
-		isEnabled = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -3553,10 +1910,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.231535256, 8.66327095, -3.22612786)
-		originalRotation = (-0.0250143707, -0.0138159841, 0.296629369, 0.954565167)
+		originalPos = (-0.410926521, 1.86566806, -3.49869752)
+		originalRotation = (0.0247620046, 0.0138944089, -0.296625733, -0.954571843)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -3587,11 +1945,11 @@ PART
 {
 	part = ksp.r.largeBatteryPack_4277476532
 	partName = Part
-	persistentId = 1904670525
-	pos = -1.58962381,9.30056667,1.24796247
+	persistentId = 3275419401
+	pos = -1.75330019,2.4857173,0.595075607
 	attPos = 0.352052093,2.38418579E-07,0.137153015
 	attPos0 = -0.897189856,1.9373343,-0.353570372
-	rot = 0.662485242,0.190487713,0.179822117,0.701777697
+	rot = -0.662670791,-0.190440163,-0.179872498,-0.701602519
 	attRot = 0,0,0,1
 	attRot0 = -3.24100256E-07,-0.261957377,8.05594027E-08,-0.965079486
 	mir = 1,1,1
@@ -3631,16 +1989,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -3665,6 +2013,16 @@ PART
 			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
 	}
 	PARTDATA
 	{
@@ -3673,9 +2031,44 @@ PART
 	{
 		name = ModuleCargoPart
 		isEnabled = True
+		packedVolume = 125
 		beingAttached = False
 		beingSettled = False
 		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 550
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -3763,6 +2156,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Stock_Default_ksp_r_largeBatteryPack
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -3826,10 +2251,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.58962381, 9.30056667, 1.24796247)
-		originalRotation = (0.662485242, 0.190487713, 0.179822117, 0.701777697)
+		originalPos = (-1.75330019, 2.4857173, 0.595075607)
+		originalRotation = (-0.662670791, -0.190440163, -0.179872498, -0.701602519)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -3871,11 +2297,11 @@ PART
 {
 	part = ksp.r.largeBatteryPack_4277476420
 	partName = Part
-	persistentId = 1319610435
-	pos = -0.499348283,9.30056667,1.24796271
+	persistentId = 2359465009
+	pos = -0.663024664,2.4857173,0.595075727
 	attPos = -0.352052093,5.96046448E-07,0.137153029
 	attPos0 = 0.897189856,1.93733418,-0.353570372
-	rot = -0.662485242,0.190487713,0.179822117,-0.701777697
+	rot = 0.662670791,-0.190440163,-0.179872498,0.701602519
 	attRot = 0,0,0,1
 	attRot0 = 3.83704901E-07,-0.261957407,7.96280801E-08,0.965079486
 	mir = 1,1,1
@@ -3915,16 +2341,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -3949,6 +2365,16 @@ PART
 			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
 	}
 	PARTDATA
 	{
@@ -3957,9 +2383,44 @@ PART
 	{
 		name = ModuleCargoPart
 		isEnabled = True
+		packedVolume = 125
 		beingAttached = False
 		beingSettled = False
 		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 550
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -4047,6 +2508,38 @@ PART
 	}
 	MODULE
 	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Stock_Default_ksp_r_largeBatteryPack
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = GeometryPartModule
 		isEnabled = True
 		stagingEnabled = True
@@ -4110,10 +2603,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.499348283, 9.30056667, 1.24796271)
-		originalRotation = (-0.662485242, 0.190487713, 0.179822117, -0.701777697)
+		originalPos = (-0.663024664, 2.4857173, 0.595075727)
+		originalRotation = (0.662670791, -0.190440163, -0.179872498, 0.701602519)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -4155,11 +2649,11 @@ PART
 {
 	part = bahaECMJammer_4277473956
 	partName = Part
-	persistentId = 4286292078
-	pos = -1.04448593,9.15300846,-2.07484937
+	persistentId = 3784566516
+	pos = -1.20816231,2.33991647,-2.72781682
 	attPos = 0,-2.38489199,0.200000584
 	attPos0 = 1.1920929E-07,0.996461213,-0.460349113
-	rot = -0.0287891924,-1.63603886E-09,-5.68033975E-08,0.999585629
+	rot = 0.0285248458,1.62101621E-09,5.68038274E-08,-0.999593139
 	attRot = 0,0,0.999999881,0
 	attRot0 = 0.707106471,4.01826981E-08,4.01826732E-08,-0.707107067
 	mir = 1,1,1
@@ -4199,18 +2693,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -4229,6 +2711,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -4261,6 +2755,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 1800
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -4414,10 +2942,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.04448593, 9.15300846, -2.07484937)
-		originalRotation = (-0.0287891924, -1.63603886E-09, -5.68033975E-08, 0.999585629)
+		originalPos = (-1.20816231, 2.33991647, -2.72781682)
+		originalRotation = (0.0285248458, 1.62101621E-09, 5.68038274E-08, -0.999593139)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.3, -0.1)
 		originalAttachNodeSize = 0
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -4452,11 +2981,11 @@ PART
 {
 	part = bdRadome1inline_4277456956
 	partName = Part
-	persistentId = 2803663022
-	pos = -1.04448628,8.8633709,-3.15641046
+	persistentId = 102166169
+	pos = -1.20816267,2.05085063,-3.80953193
 	attPos = 0,-0.764008284,1.33798409
 	attPos0 = -2.38418579E-07,-1.72086096,-1.37142503
-	rot = 3.80355978E-08,-0.72717005,-0.686457574,4.02916633E-08
+	rot = -3.80462524E-08,0.726988494,0.686649859,-4.02816056E-08
 	attRot = 0,0,0,1
 	attRot0 = 8.08242362E-14,1,1.57393515E-06,-5.54086945E-08
 	mir = 1,1,1
@@ -4497,18 +3026,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -4527,6 +3044,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -4563,6 +3092,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 2000
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -4716,17 +3279,18 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.04448628, 8.8633709, -3.15641046)
-		originalRotation = (3.80355978E-08, -0.72717005, -0.686457574, 4.02916633E-08)
+		originalPos = (-1.20816267, 2.05085063, -3.80953193)
+		originalRotation = (-3.80462524E-08, 0.726988494, 0.686649859, -4.02816056E-08)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, -0.7, 0.0)
-		originalAttachNodeSize = 1
-		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
-		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		originalAttachNodePos = (0.0, 0.7, 0.0)
 		originalAttachNodeSize = 1
+		originalAttachNodeSize = 1
+		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
+		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		originalAttachNodeOffset = (0.0, 0.0, 0.0)
 		EVENTS
 		{
@@ -4758,11 +3322,11 @@ PART
 {
 	part = radarDataReceiver_4277447252
 	partName = Part
-	persistentId = 1560085931
-	pos = -1.04448593,9.40234184,0.528003693
+	persistentId = 2412548614
+	pos = -1.20816231,2.58787322,-0.124830008
 	attPos = 0,1.07288361E-06,0.388045698
 	attPos0 = 1.1920929E-07,1.22442615,-0.747507155
-	rot = -5.68033975E-08,-0.999585629,0.0287891924,-1.63603886E-09
+	rot = 5.68038274E-08,0.999593139,-0.0285248458,1.62101621E-09
 	attRot = 0,0,0,1
 	attRot0 = 4.01826767E-08,0.707107067,-0.707106471,4.01827016E-08
 	mir = 1,1,1
@@ -4801,18 +3365,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -4832,6 +3384,18 @@ PART
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
 		{
 			actionGroup = None
 			active = False
@@ -4871,6 +3435,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 500
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -5024,10 +3622,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.04448593, 9.40234184, 0.528003693)
-		originalRotation = (-5.68033975E-08, -0.999585629, 0.0287891924, -1.63603886E-09)
+		originalPos = (-1.20816231, 2.58787322, -0.124830008)
+		originalRotation = (5.68038274E-08, 0.999593139, -0.0285248458, 1.62101621E-09)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -5058,11 +3657,11 @@ PART
 {
 	part = bdPilotAI_4277446316
 	partName = Part
-	persistentId = 2135641768
-	pos = -1.04448593,9.53424454,-2.15439487
+	persistentId = 3339664355
+	pos = -1.20816231,2.72119451,-2.80716109
 	attPos = 0,8.34465027E-07,0.12469846
 	attPos0 = 1.1920929E-07,-1.44590247,-0.770228982
-	rot = -5.2209721E-08,-0.999585629,0.0287891924,-1.50371449E-09
+	rot = 5.22101189E-08,0.999593139,-0.0285248458,1.48991752E-09
 	attRot = 0,0,0,1
 	attRot0 = 3.69330131E-08,0.707107067,-0.707106471,3.69330451E-08
 	mir = 1,1,1
@@ -5101,18 +3700,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -5132,6 +3719,18 @@ PART
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
 		{
 			actionGroup = None
 			active = False
@@ -5292,6 +3891,40 @@ PART
 	}
 	MODULE
 	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 0
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = HitpointTracker
 		isEnabled = True
 		Hitpoints = 100
@@ -5438,10 +4071,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.04448593, 9.53424454, -2.15439487)
-		originalRotation = (-5.2209721E-08, -0.999585629, 0.0287891924, -1.50371449E-09)
+		originalPos = (-1.20816231, 2.72119451, -2.80716109)
+		originalRotation = (5.22101189E-08, 0.999593139, -0.0285248458, 1.48991752E-09)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -5472,11 +4106,11 @@ PART
 {
 	part = missileController_4277445736
 	partName = Part
-	persistentId = 2426031102
-	pos = -1.04448593,9.66305256,1.24112844
+	persistentId = 12587786
+	pos = -1.20816231,2.84820676,0.588433266
 	attPos = 0,3.57627869E-07,0.133574545
 	attPos0 = 1.1920929E-07,1.95137453,-0.712270081
-	rot = -5.68033975E-08,-0.999585629,0.0287891924,-1.63603886E-09
+	rot = 5.68038274E-08,0.999593139,-0.0285248458,1.62101621E-09
 	attRot = 0,0,0,1
 	attRot0 = 4.01826767E-08,0.707107067,-0.707106471,4.01827016E-08
 	mir = 1,1,1
@@ -5515,18 +4149,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -5551,6 +4173,18 @@ PART
 			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
 	}
 	PARTDATA
 	{
@@ -5565,7 +4199,7 @@ PART
 		AutoFireCosAngleAdjustment = 1.39999998
 		guardAngle = 360
 		guardRange = 10000
-		gunRange = 2500
+		gunRange = 0
 		multiTargetNum = 1
 		multiMissileTgtNum = 1
 		maxMissilesOnTarget = 1
@@ -5607,7 +4241,7 @@ PART
 		nonGuardModeCMs = False
 		DynamicRadarOverride = False
 		isVIP = False
-		guardMode = true
+		guardMode = False
 		team = <"Name":"FKA","Neutral":false,"Allies":[]>
 		isArmed = False
 		stagingEnabled = True
@@ -5711,6 +4345,40 @@ PART
 		spread = 100
 		lag = 7
 		commandSelf = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 0
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -5870,10 +4538,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.04448593, 9.66305256, 1.24112844)
-		originalRotation = (-5.68033975E-08, -0.999585629, 0.0287891924, -1.63603886E-09)
+		originalPos = (-1.20816231, 2.84820676, 0.588433266)
+		originalRotation = (5.68038274E-08, 0.999593139, -0.0285248458, 1.62101621E-09)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -5904,11 +4573,11 @@ PART
 {
 	part = bahaAim120_4277417090
 	partName = Part
-	persistentId = 394745700
-	pos = -0.693653643,8.68208885,-0.641226053
+	persistentId = 1880524108
+	pos = -0.857330024,1.86823821,-1.29444289
 	attPos = 0,0,0
 	attPos0 = 0.350832403,0.0157121699,0.292303532
-	rot = 0.0274718702,-0.00530076772,-0.178652704,-0.983514428
+	rot = -0.0272117555,0.00525351614,0.178654104,0.9835217
 	attRot = 0,0,0,1
 	attRot0 = -0.69511658,0.126491725,0.126272246,0.696324766
 	mir = 1,1,1
@@ -5949,18 +4618,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -5979,6 +4636,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -6004,7 +4673,7 @@ PART
 		UseStaticMaxLaunchRange = False
 		dropTime = 0.550000012
 		inCargoBay = False
-		customBayGroup = 0
+		customBayGroup = 5
 		detonationTime = 2
 		BallisticOverShootFactor = 0.699999988
 		BallisticAngle = 45
@@ -6079,6 +4748,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 2500
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -6217,10 +4920,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.693653643, 8.68208885, -0.641226053)
-		originalRotation = (0.0274718702, -0.00530076772, -0.178652704, -0.983514428)
+		originalPos = (-0.857330024, 1.86823821, -1.29444289)
+		originalRotation = (-0.0272117555, 0.00525351614, 0.178654104, 0.9835217)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.1, -0.2)
 		originalAttachNodeSize = 0
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -6255,11 +4959,11 @@ PART
 {
 	part = bahaAim120_4277416238
 	partName = Part
-	persistentId = 2287762326
-	pos = -1.39531851,8.68208885,-0.641226053
+	persistentId = 934187665
+	pos = -1.55899489,1.86823821,-1.29444289
 	attPos = 0,0,0
 	attPos0 = -0.350832403,0.0157121699,0.292303532
-	rot = 0.0274718702,0.00530073047,0.178652614,-0.983514428
+	rot = -0.0272117555,-0.00525349379,-0.178654,0.9835217
 	attRot = 0,0,0,1
 	attRot0 = -0.69511652,-0.126491711,-0.126272246,0.696324825
 	mir = 1,1,1
@@ -6300,18 +5004,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -6330,6 +5022,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -6355,7 +5059,7 @@ PART
 		UseStaticMaxLaunchRange = False
 		dropTime = 0.550000012
 		inCargoBay = False
-		customBayGroup = 0
+		customBayGroup = 5
 		detonationTime = 2
 		BallisticOverShootFactor = 0.699999988
 		BallisticAngle = 45
@@ -6430,6 +5134,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 2500
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -6568,10 +5306,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.39531851, 8.68208885, -0.641226053)
-		originalRotation = (0.0274718702, 0.00530073047, 0.178652614, -0.983514428)
+		originalPos = (-1.55899489, 1.86823821, -1.29444289)
+		originalRotation = (-0.0272117555, -0.00525349379, -0.178654, 0.9835217)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.1, -0.2)
 		originalAttachNodeSize = 0
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -6606,11 +5345,11 @@ PART
 {
 	part = bahaAim120_4277417492
 	partName = Part
-	persistentId = 3370503224
-	pos = -0.496727228,8.7555542,-0.652638197
+	persistentId = 3246961990
+	pos = -0.660403609,1.94170976,-1.30581594
 	attPos = 0,0,0
 	attPos0 = 0.547758818,0.00854728092,0.218303159
-	rot = 0.0274718702,-0.00530076772,-0.178652704,-0.983514428
+	rot = -0.0272117555,0.00525351614,0.178654104,0.9835217
 	attRot = 0,0,0,1
 	attRot0 = -0.69511658,0.126491725,0.126272246,0.696324766
 	mir = 1,1,1
@@ -6651,18 +5390,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -6681,6 +5408,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -6706,7 +5445,7 @@ PART
 		UseStaticMaxLaunchRange = False
 		dropTime = 0.550000012
 		inCargoBay = False
-		customBayGroup = 0
+		customBayGroup = 5
 		detonationTime = 2
 		BallisticOverShootFactor = 0.699999988
 		BallisticAngle = 45
@@ -6781,6 +5520,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 2500
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -6919,10 +5692,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.496727228, 8.7555542, -0.652638197)
-		originalRotation = (0.0274718702, -0.00530076772, -0.178652704, -0.983514428)
+		originalPos = (-0.660403609, 1.94170976, -1.30581594)
+		originalRotation = (-0.0272117555, 0.00525351614, 0.178654104, 0.9835217)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.1, -0.2)
 		originalAttachNodeSize = 0
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -6957,11 +5731,11 @@ PART
 {
 	part = bahaAim120_4277415832
 	partName = Part
-	persistentId = 2753668793
-	pos = -1.59224486,8.7555542,-0.652638197
+	persistentId = 1517776156
+	pos = -1.75592124,1.94170976,-1.30581594
 	attPos = 0,0,0
 	attPos0 = -0.547758818,0.00854728092,0.218303159
-	rot = 0.0274718702,0.00530073047,0.178652614,-0.983514428
+	rot = -0.0272117555,-0.00525349379,-0.178654,0.9835217
 	attRot = 0,0,0,1
 	attRot0 = -0.69511652,-0.126491711,-0.126272246,0.696324825
 	mir = 1,1,1
@@ -7002,18 +5776,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -7032,6 +5794,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -7057,7 +5831,7 @@ PART
 		UseStaticMaxLaunchRange = False
 		dropTime = 0.550000012
 		inCargoBay = False
-		customBayGroup = 0
+		customBayGroup = 5
 		detonationTime = 2
 		BallisticOverShootFactor = 0.699999988
 		BallisticAngle = 45
@@ -7132,6 +5906,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 2500
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -7270,10 +6078,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.59224486, 8.7555542, -0.652638197)
-		originalRotation = (0.0274718702, 0.00530073047, 0.178652614, -0.983514428)
+		originalPos = (-1.75592124, 1.94170976, -1.30581594)
+		originalRotation = (-0.0272117555, -0.00525349379, -0.178654, 0.9835217)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.1, -0.2)
 		originalAttachNodeSize = 0
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -7308,11 +6117,11 @@ PART
 {
 	part = bahaAim120_4277417886
 	partName = Part
-	persistentId = 3783562592
-	pos = -0.31362772,8.82998753,-0.667524338
+	persistentId = 4151810692
+	pos = -0.477304101,2.01615095,-1.32066274
 	attPos = 0,0,0
 	attPos0 = 0.730858326,-0.0020301342,0.143136472
-	rot = 0.0289478004,-0.00530949235,-0.188870743,-0.981560946
+	rot = -0.028688252,0.00525955111,0.188872129,0.981568515
 	attRot = 0,0,0,1
 	attRot0 = -0.694848657,0.133512363,0.133696541,0.693891227
 	mir = 1,1,1
@@ -7353,18 +6162,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -7383,6 +6180,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -7408,7 +6217,7 @@ PART
 		UseStaticMaxLaunchRange = False
 		dropTime = 0.550000012
 		inCargoBay = False
-		customBayGroup = 0
+		customBayGroup = 5
 		detonationTime = 2
 		BallisticOverShootFactor = 0.699999988
 		BallisticAngle = 45
@@ -7483,6 +6292,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 2500
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -7621,10 +6464,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.31362772, 8.82998753, -0.667524338)
-		originalRotation = (0.0289478004, -0.00530949235, -0.188870743, -0.981560946)
+		originalPos = (-0.477304101, 2.01615095, -1.32066274)
+		originalRotation = (-0.028688252, 0.00525955111, 0.188872129, 0.981568515)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.1, -0.2)
 		originalAttachNodeSize = 0
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -7659,11 +6503,11 @@ PART
 {
 	part = bahaAim120_4277415450
 	partName = Part
-	persistentId = 3503238508
-	pos = -1.77534437,8.82998753,-0.667524099
+	persistentId = 2095643752
+	pos = -1.93902075,2.01615095,-1.3206625
 	attPos = 0,0,0
 	attPos0 = -0.730858326,-0.00202989578,0.143136486
-	rot = 0.0289476216,0.0053094551,0.188870639,-0.981561065
+	rot = -0.028688103,-0.0052595064,-0.188872039,0.981568694
 	attRot = 0,0,0,1
 	attRot0 = -0.694848657,-0.133512318,-0.133696526,0.693891346
 	mir = 1,1,1
@@ -7704,18 +6548,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -7734,6 +6566,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -7759,7 +6603,7 @@ PART
 		UseStaticMaxLaunchRange = False
 		dropTime = 0.550000012
 		inCargoBay = False
-		customBayGroup = 0
+		customBayGroup = 5
 		detonationTime = 2
 		BallisticOverShootFactor = 0.699999988
 		BallisticAngle = 45
@@ -7834,6 +6678,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 2500
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -7972,10 +6850,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.77534437, 8.82998753, -0.667524099)
-		originalRotation = (0.0289476216, 0.0053094551, 0.188870639, -0.981561065)
+		originalPos = (-1.93902075, 2.01615095, -1.3206625)
+		originalRotation = (-0.028688103, -0.0052595064, -0.188872039, 0.981568694)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.1, -0.2)
 		originalAttachNodeSize = 0
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -8010,11 +6889,11 @@ PART
 {
 	part = bahaAim120_4277418352
 	partName = Part
-	persistentId = 1247596406
-	pos = -0.11985755,8.90723991,-0.672879219
+	persistentId = 3073859711
+	pos = -0.283533931,2.0934062,-1.32597685
 	attPos = 0,0,0
 	attPos0 = 0.924628496,-0.00292984187,0.0657039732
-	rot = 0.0289478004,-0.00530949235,-0.188870743,-0.981560946
+	rot = -0.028688252,0.00525955111,0.188872129,0.981568515
 	attRot = 0,0,0,1
 	attRot0 = -0.694848657,0.133512363,0.133696541,0.693891227
 	mir = 1,1,1
@@ -8055,18 +6934,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -8085,6 +6952,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -8110,7 +6989,7 @@ PART
 		UseStaticMaxLaunchRange = False
 		dropTime = 0.550000012
 		inCargoBay = False
-		customBayGroup = 0
+		customBayGroup = 5
 		detonationTime = 2
 		BallisticOverShootFactor = 0.699999988
 		BallisticAngle = 45
@@ -8185,6 +7064,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 2500
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -8323,10 +7236,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.11985755, 8.90723991, -0.672879219)
-		originalRotation = (0.0289478004, -0.00530949235, -0.188870743, -0.981560946)
+		originalPos = (-0.283533931, 2.0934062, -1.32597685)
+		originalRotation = (-0.028688252, 0.00525955111, 0.188872129, 0.981568515)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.1, -0.2)
 		originalAttachNodeSize = 0
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -8361,11 +7275,11 @@ PART
 {
 	part = bahaAim120_4277415068
 	partName = Part
-	persistentId = 1208558333
-	pos = -1.96911454,8.90723991,-0.672878981
+	persistentId = 937064343
+	pos = -2.13279104,2.0934062,-1.32597661
 	attPos = 0,0,0
 	attPos0 = -0.924628496,-0.00292960391,0.0657039806
-	rot = 0.0289476216,0.0053094551,0.188870639,-0.981561065
+	rot = -0.028688103,-0.0052595064,-0.188872039,0.981568694
 	attRot = 0,0,0,1
 	attRot0 = -0.694848657,-0.133512318,-0.133696526,0.693891346
 	mir = 1,1,1
@@ -8406,18 +7320,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -8436,6 +7338,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -8461,7 +7375,7 @@ PART
 		UseStaticMaxLaunchRange = False
 		dropTime = 0.550000012
 		inCargoBay = False
-		customBayGroup = 0
+		customBayGroup = 5
 		detonationTime = 2
 		BallisticOverShootFactor = 0.699999988
 		BallisticAngle = 45
@@ -8536,6 +7450,40 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 2500
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -8674,10 +7622,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.96911454, 8.90723991, -0.672878981)
-		originalRotation = (0.0289476216, 0.0053094551, 0.188870639, -0.981561065)
+		originalPos = (-2.13279104, 2.0934062, -1.32597661)
+		originalRotation = (-0.028688103, -0.0052595064, -0.188872039, 0.981568694)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.1, -0.2)
 		originalAttachNodeSize = 0
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -8712,11 +7661,11 @@ PART
 {
 	part = raptorjet_4276790088
 	partName = Part
-	persistentId = 2070444517
-	pos = -1.66948605,8.8695364,-4.84094143
+	persistentId = 177317758
+	pos = -1.83316243,2.05790687,-5.49406433
 	attPos = 0,-1.77025795E-05,3.87430106E-07
 	attPos0 = -0.625,-0.937501848,-1.78813877E-07
-	rot = 0.714262605,0,0,0.699878097
+	rot = -0.714447618,0,0,-0.69968915
 	attRot = 0,0,0,1
 	attRot0 = -3.72528985E-09,0,0,1
 	mir = 1,1,1
@@ -8756,18 +7705,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -8786,6 +7723,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -9166,6 +8115,40 @@ PART
 	}
 	MODULE
 	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 700
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = HitpointTracker
 		isEnabled = True
 		Hitpoints = 1000
@@ -9355,10 +8338,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.66948605, 8.8695364, -4.84094143)
-		originalRotation = (0.714262605, 0, 0, 0.699878097)
+		originalPos = (-1.83316243, 2.05790687, -5.49406433)
+		originalRotation = (-0.714447618, 0, 0, -0.69968915)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.0, 0.0)
 		originalAttachNodeSize = 1
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -9393,11 +8377,11 @@ PART
 {
 	part = raptorjet_4276789462
 	partName = Part
-	persistentId = 3299954604
-	pos = -0.419486046,8.8695364,-4.84094143
+	persistentId = 3399052934
+	pos = -0.583162427,2.05790687,-5.49406433
 	attPos = 0,-1.74641609E-05,3.50177231E-07
 	attPos0 = 0.625,-0.937501848,-1.78813877E-07
-	rot = 0.714262664,0,0,0.699878037
+	rot = -0.714447618,0,0,-0.69968915
 	attRot = 0,0,0,1
 	attRot0 = 2.60770285E-08,0,0,1
 	mir = 1,1,1
@@ -9437,18 +8421,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -9467,6 +8439,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -9839,6 +8823,40 @@ PART
 	}
 	MODULE
 	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 700
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = HitpointTracker
 		isEnabled = True
 		Hitpoints = 1000
@@ -10028,10 +9046,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-0.419486046, 8.8695364, -4.84094143)
-		originalRotation = (0.714262664, 0, 0, 0.699878037)
+		originalPos = (-0.583162427, 2.05790687, -5.49406433)
+		originalRotation = (-0.714447618, 0, 0, -0.69968915)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		originalAttachNodePos = (0.0, 0.0, 0.0)
 		originalAttachNodeSize = 1
 		originalAttachNodeOrientation = (0.0, 1.0, 0.0)
@@ -10066,11 +9085,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289337880
 	partName = Part
-	persistentId = 4178642992
-	pos = -2.02106333,9.09989738,-0.0891849995
+	persistentId = 3623403527
+	pos = -2.18473959,2.28575516,-0.742179632
 	attPos = 0.251430511,-0.516153455,-0.0930397809
 	attPos0 = -1.22800779,1.10703623,-1.26659884E-07
-	rot = -0.0030524286,0.727164149,0.686450958,0.00288153836
+	rot = 0.00305166654,-0.726982653,-0.686643183,-0.00288234558
 	attRot = 0,0,0,1
 	attRot0 = -0.00419768272,0.999991179,1.32247777E-07,1.6734699E-08
 	mir = 1,1,1
@@ -10112,18 +9131,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -10142,6 +9149,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -10200,6 +9219,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 435
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 435
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -10470,11 +9523,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289360582
 	partName = Part
-	persistentId = 2700213054
-	pos = -0.0679087639,9.09989738,-0.0891854763
+	persistentId = 462575190
+	pos = -0.231585145,2.28575516,-0.742180109
 	attPos = -0.251430511,-0.516153693,-0.0930397958
 	attPos0 = 1.22800779,1.10703599,-1.41561046E-07
-	rot = -0.686451197,-0.00288156536,0.003052396,-0.72716403
+	rot = 0.686643362,0.00288237096,-0.00305163232,0.726982474
 	attRot = 0,0,0,1
 	attRot0 = 1.32247777E-07,6.02594667E-08,-0.00419768179,0.999991179
 	mir = 1,1,1
@@ -10516,18 +9569,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -10546,6 +9587,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -10604,6 +9657,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 435
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 435
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -10874,11 +9961,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289337412
 	partName = Part
-	persistentId = 336546929
-	pos = -4.18493319,9.00777912,-1.67062926
+	persistentId = 2147889686
+	pos = -4.34860945,2.19447303,-2.32367396
 	attPos = 0.359060884,-0.206461549,-0.000945083739
 	attPos0 = 1.81802952,-1.35943043,-5.0029314E-09
-	rot = -0.00305286585,0.727164149,0.686450958,0.00288195559
+	rot = 0.00305210357,-0.726982653,-0.686643183,-0.00288276258
 	attRot = 0,0,0,1
 	attRot0 = -1.47137371E-07,-3.0695797E-09,-6.10947552E-07,1
 	mir = 1,1,1
@@ -10920,18 +10007,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -10950,6 +10025,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -11008,6 +10095,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 80
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 80
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -11278,11 +10399,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289360100
 	partName = Part
-	persistentId = 4138540082
-	pos = 2.09596109,9.00777912,-1.67063069
+	persistentId = 4184768877
+	pos = 1.93228471,2.19447303,-2.32367539
 	attPos = 0.359060884,-0.206462383,0.000945459411
 	attPos0 = 1.81802952,-1.35943007,1.22171741E-06
-	rot = -0.686451197,-0.00288198539,0.00305283652,-0.72716403
+	rot = 0.686643362,0.00288279215,-0.003052074,0.726982474
 	attRot = 0,0,0,1
 	attRot0 = -1.49029304E-07,3.92161947E-09,-6.10481834E-07,1
 	mir = 1,1,1
@@ -11324,18 +10445,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -11354,6 +10463,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -11412,6 +10533,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 80
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 80
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -11682,11 +10837,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289332278
 	partName = Part
-	persistentId = 973371567
-	pos = 0.0608274937,8.89835358,-3.93747067
+	persistentId = 2632890470
+	pos = -0.102848887,2.08624625,-4.59057808
 	attPos = -0.105900407,-0.148510084,0.167343199
 	attPos0 = 1.21121395,0.113688298,-0.214532435
-	rot = -0.705263197,-0.00540446211,-0.00776222907,-0.708882868
+	rot = 0.705450654,0.00540240854,0.00776365772,0.708696365
 	attRot = 0,-0.30070588,0,0.953716934
 	attRot0 = 0.000961489859,-0.0160637554,0.00142090244,0.999869525
 	mir = 1,1,1
@@ -11727,18 +10882,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -11757,6 +10900,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -11815,6 +10970,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 60
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 60
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -12085,11 +11274,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289329020
 	partName = Part
-	persistentId = 1736760708
-	pos = -2.14979959,8.89835358,-3.93746877
+	persistentId = 3473761551
+	pos = -2.31347609,2.08624625,-4.59057617
 	attPos = 0.105900526,-0.148508638,0.167343184
 	attPos0 = -1.21121407,0.113688774,-0.21453245
-	rot = 0.00776219461,0.708883703,0.705262482,0.00540442113
+	rot = -0.00776362047,-0.70869714,-0.705449879,-0.0054023657
 	attRot = -0.0127132041,0.365752608,-0.00499658752,-0.930612087
 	attRot0 = -0.00157241896,-0.999874234,0.0127342399,-0.00932672899
 	mir = 1,1,1
@@ -12130,18 +11319,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -12160,6 +11337,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -12218,6 +11407,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 60
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 60
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -12488,11 +11711,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeB_4289325998
 	partName = Part
-	persistentId = 1479047463
-	pos = -3.206007,8.95783138,-2.55349803
+	persistentId = 1348104745
+	pos = -3.36968327,2.14499211,-3.20656943
 	attPos = 0,0,0
 	attPos0 = 1.2056222,-2.45836115,4.87557827E-07
-	rot = 0.681797326,0.0798480734,-0.0845848694,0.722234309
+	rot = -0.68198818,-0.0798704475,0.0845637619,-0.722053945
 	attRot = 0,0.707106709,0,0.707106709
 	attRot0 = -0.120487899,0.992714822,-2.36053637E-07,7.48261812E-07
 	mir = 1,1,1
@@ -12532,18 +11755,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -12562,6 +11773,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -12620,6 +11843,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 300
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 300
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -12858,11 +12115,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeB_4289325102
 	partName = Part
-	persistentId = 3926253752
-	pos = 1.11703491,8.95783138,-2.55349946
+	persistentId = 857720013
+	pos = 0.953358531,2.14499211,-3.20657086
 	attPos = 0,0,0
 	attPos0 = 1.20562243,-2.45836186,-1.02562535E-06
-	rot = 0.681797445,-0.0798480585,0.08458478,0.722234309
+	rot = -0.681988239,0.0798704252,-0.0845636651,-0.722054005
 	attRot = 0,0.707106709,0,0.707106709
 	attRot0 = -3.19791724E-07,-6.74444493E-07,-0.120487861,-0.992714822
 	mir = 1,1,1
@@ -12902,18 +12159,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -12932,6 +12177,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -12990,6 +12247,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 300
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 300
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -13228,11 +12519,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289314038
 	partName = Part
-	persistentId = 3573072222
-	pos = -2.54639935,8.88649464,-4.63984108
+	persistentId = 575567442
+	pos = -2.71007633,2.07475877,-5.29295444
 	attPos = 0.088336885,-0.414127588,0.00969508104
 	attPos0 = 0.305661201,-0.289633274,-0.0253142472
-	rot = 0.218436092,0.674787819,0.670627296,0.217270762
+	rot = -0.218493626,-0.674610436,-0.670805752,-0.21721305
 	attRot = -6.88992486E-07,0.299221784,7.37739242E-07,-0.954183578
 	attRot0 = 4.56813609E-07,-0.299221784,-6.80913047E-07,0.954183578
 	mir = 1,1,1
@@ -13274,18 +12565,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -13304,6 +12583,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -13362,6 +12653,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 290
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 290
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -13632,11 +12957,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289306922
 	partName = Part
-	persistentId = 1610733692
-	pos = 0.457426071,8.88649464,-4.63984299
+	persistentId = 1216349364
+	pos = 0.29374969,2.07475877,-5.29295635
 	attPos = 0.0883371234,-0.414129525,-0.00969407707
 	attPos0 = 0.305661201,-0.289631337,0.0253147893
-	rot = -0.670627713,-0.217270866,-0.218436107,-0.674787402
+	rot = 0.670806229,0.217213184,0.21849364,0.674610078
 	attRot = 0,0,0,1
 	attRot0 = -5.05708044E-07,-2.23517365E-08,-1.95504928E-08,1
 	mir = 1,1,1
@@ -13678,18 +13003,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -13708,6 +13021,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -13766,6 +13091,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 290
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 290
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -14036,11 +13395,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289313894
 	partName = Part
-	persistentId = 1395759827
-	pos = -4.16032219,10.0490894,-4.86229229
+	persistentId = 1874769823
+	pos = -4.32400084,3.2374723,-5.51479244
 	attPos = -0.00706875324,-0.012422815,4.32366505E-07
 	attPos0 = 1.99615026,-0.209560022,-0.00285898708
-	rot = 0.218435973,0.674787462,0.670627654,0.217270851
+	rot = -0.218493551,-0.674610138,-0.67080617,-0.217213184
 	attRot = 0,0,0,1
 	attRot0 = -2.72053398E-07,1.49011541E-08,-1.18743584E-08,1
 	mir = 1,1,1
@@ -14080,18 +13439,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -14110,6 +13457,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -14168,6 +13527,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 60
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 60
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -14438,11 +13831,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289304946
 	partName = Part
-	persistentId = 4230443874
-	pos = 2.07134533,10.0490894,-4.86229706
+	persistentId = 163740761
+	pos = 1.90766895,3.2374723,-5.5147953
 	attPos = -0.00706732273,-0.0124251992,-4.12575901E-07
 	attPos0 = 1.99614954,-0.2095581,0.0028595326
-	rot = -0.670627892,-0.217270955,-0.218435958,-0.674787223
+	rot = 0.670806289,0.217213213,0.218493462,0.6746099
 	attRot = 0,0,0,1
 	attRot0 = -2.38418522E-07,-1.95577758E-08,-1.28202258E-08,1
 	mir = 1,1,1
@@ -14482,18 +13875,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -14512,6 +13893,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -14570,6 +13963,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 60
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 60
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -14840,11 +14267,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeB_4289313750
 	partName = Part
-	persistentId = 2973214518
-	pos = -3.35712624,9.46492672,-5.46071053
+	persistentId = 3053056184
+	pos = -3.52080345,2.65362525,-6.11351776
 	attPos = 0.0459671021,0.0195428729,-0.00606978498
 	attPos0 = 0.950133562,-0.840193629,0.00444672024
-	rot = 0.700510979,-0.0789425522,-0.348812699,0.617561936
+	rot = -0.700674355,0.0788502395,0.348833472,-0.617376745
 	attRot = 0,0.707106709,0,0.707106709
 	attRot0 = -0.199736655,0.979849637,1.44201891E-07,-2.0054199E-06
 	mir = 1,1,1
@@ -14884,18 +14311,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -14914,6 +14329,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -14972,6 +14399,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 295
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 295
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -15210,11 +14671,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeB_4289303558
 	partName = Part
-	persistentId = 2176754785
-	pos = 1.26815176,9.46492672,-5.46071243
+	persistentId = 3873661174
+	pos = 1.10447538,2.65362525,-6.11351967
 	attPos = 0.0459510684,0.0195381045,0.00607165974
 	attPos0 = 0.950133264,-0.840191662,-0.00444522919
-	rot = 0.700511098,0.0789425969,0.348812908,0.617561698
+	rot = -0.700674474,-0.0788502991,-0.34883377,-0.617376387
 	attRot = 0,0.707106709,0,0.707106709
 	attRot0 = 9.10774247E-07,1.8971723E-06,-0.199736595,-0.979849696
 	mir = 1,1,1
@@ -15254,18 +14715,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -15284,6 +14733,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -15342,6 +14803,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 295
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 295
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -15580,11 +15075,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeB_4289286628
 	partName = Part
-	persistentId = 2114160269
-	pos = 2.55208254,9.02249241,-1.41540456
+	persistentId = 3958974605
+	pos = 2.38840628,2.20905137,-2.06844163
 	attPos = 0.00605750084,-0.0046389997,-2.4469756E-08
 	attPos0 = 0.447902828,0.264108956,2.96426549E-07
-	rot = -0.687711954,0.236283779,0.22305426,0.649206638
+	rot = 0.687540293,-0.236224815,-0.223116741,-0.649388433
 	attRot = 0,0.707106709,0,0.707106709
 	attRot0 = 0.947091997,-0.32096222,-3.33743941E-07,-1.14658398E-07
 	mir = 1,1,1
@@ -15624,18 +15119,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -15654,6 +15137,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -15712,6 +15207,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 145
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 145
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -15950,11 +15479,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeB_4289286352
 	partName = Part
-	persistentId = 3468644719
-	pos = -4.64105225,9.02249241,-1.41540313
+	persistentId = 1260371844
+	pos = -4.80472755,2.20905137,-2.06843972
 	attPos = 0.00605726242,-0.00463995337,8.35481728E-08
 	attPos0 = 0.44790116,0.264110267,-5.08886274E-07
-	rot = -0.687711835,-0.236283913,-0.223054394,0.649206758
+	rot = 0.687540174,0.236224934,0.22311686,-0.649388552
 	attRot = 0,0.707106709,0,0.707106709
 	attRot0 = 3.35072826E-07,-1.98629238E-08,-0.947092056,-0.32096222
 	mir = 1,1,1
@@ -15994,18 +15523,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -16024,6 +15541,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -16082,6 +15611,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 145
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 145
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -16320,11 +15883,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289281598
 	partName = Part
-	persistentId = 3947675506
-	pos = 2.99445724,8.99194241,-1.94535232
+	persistentId = 564236117
+	pos = 2.83078098,2.17878175,-2.59840512
 	attPos = 0.359060884,-0.206462383,0.000945459411
 	attPos0 = 0.900788844,-0.267624825,-3.70590357E-07
-	rot = -0.686451554,-0.00288207852,0.00305282162,-0.727163672
+	rot = 0.686643779,0.00288288505,-0.00305205886,0.726982057
 	attRot = 0,0,0,1
 	attRot0 = -1.7661489E-07,-8.04939262E-08,5.54136861E-08,-1
 	mir = 1,1,1
@@ -16364,18 +15927,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -16394,6 +15945,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -16452,6 +16015,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 70
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 70
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -16722,11 +16319,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4289280940
 	partName = Part
-	persistentId = 4103367038
-	pos = -5.08342648,8.99194241,-1.94535089
+	persistentId = 1947448439
+	pos = -5.24710178,2.17878175,-2.59840369
 	attPos = 0.359060884,-0.206462383,0.000945459411
 	attPos0 = 0.900788605,-0.267623633,9.12000473E-07
-	rot = -0.00305285049,0.72716403,0.686451197,0.00288205105
+	rot = 0.00305208773,-0.726982474,-0.686643362,-0.00288285757
 	attRot = 0,0,0,1
 	attRot0 = -2.94678522E-08,-7.97233426E-08,-5.44823564E-08,1
 	mir = 1,1,1
@@ -16766,18 +16363,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -16796,6 +16381,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -16854,6 +16451,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 70
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 70
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -17124,11 +16755,11 @@ PART
 {
 	part = baha20mmAmmo_4277443722
 	partName = Part
-	persistentId = 3065034532
-	pos = -1.04448593,9.63642693,1.37896657
+	persistentId = 1695191497
+	pos = -1.20816231,2.82150841,0.726257801
 	attPos = 0,-4.76837158E-07,0.316804647
 	attPos0 = 1.1920929E-07,2.08747792,-0.860984921
-	rot = 5.06723907E-08,0.999585629,-0.0287891924,1.45945656E-09
+	rot = -5.06727886E-08,-0.999593139,0.0285248458,-1.44605039E-09
 	attRot = 0,0,0,1
 	attRot0 = -3.58456091E-08,-0.707107127,0.707106531,-3.58456163E-08
 	mir = 1,1,1
@@ -17167,16 +16798,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -17193,6 +16814,16 @@ PART
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
 		{
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
@@ -17223,6 +16854,40 @@ PART
 	{
 		name = CFEnable
 		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 600
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
 		stagingEnabled = True
 		EVENTS
 		{
@@ -17382,10 +17047,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-1.04448593, 9.63642693, 1.37896657)
-		originalRotation = (5.06723907E-08, 0.999585629, -0.0287891924, 1.45945656E-09)
+		originalPos = (-1.20816231, 2.82150841, 0.726257801)
+		originalRotation = (-5.06727886E-08, -0.999593139, 0.0285248458, -1.44605039E-09)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -17425,354 +17091,13 @@ PART
 }
 PART
 {
-	part = bahaHiddenVulcan_4277457894
-	partName = Part
-	persistentId = 4074214222
-	pos = -1.99747014,9.36862469,1.21711326
-	attPos = 0.137699127,-0.574046493,0.025950551
-	attPos0 = -1.09100604,-1.0280627,-0.292012095
-	rot = -0.315140158,0.949045241,0,2.98023224E-08
-	attRot = -6.23341379E-09,2.01396482E-08,0.0204532556,0.999790907
-	attRot0 = 0.222837746,-0.671076298,0.671076298,0.222837716
-	mir = 1,1,1
-	symMethod = Mirror
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 0
-	resPri = 0
-	dstg = 0
-	sidx = 1
-	sqor = 0
-	sepI = -1
-	attm = 1
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	srfN = srfAttach,B9.Body.Mk2.Cockpit.Intake_4277970108,body_mk2_cockpit_a_type2,0|-0.00999999978|0,0|-1|0,0|-0.00999999978|0
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleWeapon
-		isEnabled = True
-		WeaponDisplayName = Vulcan (Hidden)
-		priority = 0
-		BurstOverride = False
-		fireBurstLength = 1
-		FireAngleOverride = False
-		FiringTolerance = 1
-		roundsPerMinute = 5500
-		defaultDetonationRange = 3500
-		detonationRange = 0
-		AmmoTypeNum = 1
-		advancedAmmoOption = False
-		useCustomBelt = False
-		SelectedAmmoType = 20x102mmHEBullet
-		ammoBelt = def
-		deployWepGroup = 0
-		canHotSwap = False
-		useRippleFire = False
-		isAPS = False
-		dualModeAPS = False
-		customFireKey = 
-		engageEnabled = True
-		engageRangeMin = 0
-		engageRangeMax = 2500
-		engageAir = True
-		engageMissile = True
-		engageGround = True
-		engageSLW = True
-		shortName = Vulcan (Hidden)
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			AGToggle
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			AGFireToggle
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			AGFireHold
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-			AGJettison
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = HitpointTracker
-		isEnabled = True
-		Hitpoints = 200
-		Armor = 10
-		ArmorRemaining = 100
-		ArmorTypeNum = 1
-		HullTypeNum = 2
-		hullType = Aluminium
-		SelectedArmorType = None
-		maxHitPoints = 0
-		ArmorThickness = 0
-		ArmorSet = True
-		ExplodeMode = Never
-		FireFX = True
-		FireFXLifeTimeInSeconds = 5
-		Density = 2700
-		Diffusivity = 237
-		Ductility = 0.600000024
-		Hardness = 300
-		Strength = 200
-		SafeUseTemp = 993
-		radarReflectivity = 1
-		Cost = 0
-		vFactor = 1.82712211E-06
-		muParam1 = 1.37732458
-		muParam2 = 2.04939008
-		muParam3 = 4.5333333
-		muParam1S = 1.92650819
-		muParam2S = 2.65274119
-		muParam3S = 7.37037039
-		HEEquiv = 0.210114747
-		HEATEquiv = 0.55794096
-		maxForce = 0
-		maxTorque = 0
-		maxG = 0
-		maxSupportedArmor = 20
-		armorVolume = 1.33101344
-		ignitionTemp = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPTextureSwitch
-		isEnabled = True
-		currentTextureSet = BDArmory_hiddenVulcan_Paint
-		persistentData = 0.666,0.666,0.666,0.53,0.03,1;0.666,0.666,0.666,0.3921,0,0.85;0.2745,0.2745,0.2745,0.3545,0,1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SSTURecolorGUI
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = GeometryPartModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FARAeroPartModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = FARPartModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModulePartVariants
-		isEnabled = True
-		useVariantMass = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = AttachedOnEditor
-		isEnabled = True
-		active = True
-		originalPos = (-1.99747014, 9.36862469, 1.21711326)
-		originalRotation = (-0.315140158, 0.949045241, 0, 2.98023224E-08)
-		moduleVersion = 6
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleIREditorHelper
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
 	part = B9.Aero.Wing.Procedural.TypeA_4284438474
 	partName = Part
-	persistentId = 1944401705
-	pos = -1.68555951,8.32594013,-4.04061699
+	persistentId = 471425110
+	pos = -1.84923589,1.51388717,-4.69402695
 	attPos = 0.0553295612,-3.81469727E-06,1.1920929E-07
 	attPos0 = -0.696403027,-0.126299128,0.527203918
-	rot = -0.481244326,0.518077731,0.481243849,-0.518077433
+	rot = 0.481381357,-0.517950416,-0.481380761,0.517950237
 	attRot = 0,0,0,1
 	attRot0 = -0.0332314856,-0.706325471,0.0332314856,0.706325471
 	mir = 1,1,1
@@ -17812,18 +17137,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -17842,6 +17155,18 @@ PART
 		AutostrutGrandparent
 		{
 			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -17900,6 +17225,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 65
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 65
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -18170,11 +17529,11 @@ PART
 {
 	part = B9.Aero.Wing.Procedural.TypeA_4284438204
 	partName = Part
-	persistentId = 3750992704
-	pos = -0.40341258,8.32594013,-4.04061508
+	persistentId = 2383065395
+	pos = -0.567088962,1.51388717,-4.69402504
 	attPos = -0.0553295612,-1.90734863E-06,0
 	attPos0 = 0.696403027,-0.126299128,0.527203918
-	rot = -0.481244028,0.518077731,0.481243938,-0.518077791
+	rot = 0.481380969,-0.517950356,-0.48138082,0.517950416
 	attRot = 0,0,0,1
 	attRot0 = 0.0332314596,0.706325471,-0.0332314558,-0.706325591
 	mir = 1,1,1
@@ -18214,18 +17573,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -18246,6 +17593,18 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
 	}
 	PARTDATA
 	{
@@ -18260,7 +17619,7 @@ PART
 		sharedBaseWidthRoot = 0.980069995
 		sharedBaseWidthTip = 0.27652967
 		sharedBaseOffsetRoot = -0.219045639
-		sharedBaseOffsetTip = 0.595821381
+		sharedBaseOffsetTip = 0.595821619
 		sharedBaseThicknessRoot = 0.0649999976
 		sharedBaseThicknessTip = 0.0449999981
 		sharedEdgeTypeLeading = 3
@@ -18302,6 +17661,40 @@ PART
 		fuelSelectedTankSetup = 0
 		stagingEnabled = True
 		mirrorTexturing = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 65
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 65
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -18572,11 +17965,11 @@ PART
 {
 	part = bahaCmPod_4284326144
 	partName = Part
-	persistentId = 2883825146
-	pos = 0.274204254,8.80270195,-4.70171738
+	persistentId = 2768755013
+	pos = 0.110527873,1.99099898,-5.35487556
 	attPos = -0.0413099527,-5.7220459E-06,1.2665987E-07
 	attPos0 = 1.36000025,-0.796958983,0.0639886335
-	rot = 0.707070351,0.707070351,0.00719234347,-0.00719249249
+	rot = -0.707068443,-0.707068443,-0.00737938285,0.00737941265
 	attRot = 0,0,0,1
 	attRot0 = 0.500000119,0.5,-0.49999994,0.49999994
 	mir = 1,1,1
@@ -18616,16 +18009,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -18642,6 +18025,16 @@ PART
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
 		{
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
@@ -18667,6 +18060,40 @@ PART
 				actionGroup = Custom04
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 600
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -18820,10 +18247,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.274204254, 8.80270195, -4.70171738)
-		originalRotation = (0.707070351, 0.707070351, 0.00719234347, -0.00719249249)
+		originalPos = (0.110527873, 1.99099898, -5.35487556)
+		originalRotation = (-0.707068443, -0.707068443, -0.00737938285, 0.00737941265)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -18865,11 +18293,11 @@ PART
 {
 	part = bahaCmPod_4284325686
 	partName = Part
-	persistentId = 959759756
-	pos = -2.36317635,8.80270195,-4.70171928
+	persistentId = 394730701
+	pos = -2.52685261,1.99099898,-5.35487747
 	attPos = 0.0413098335,-7.62939453E-06,1.56462193E-07
 	attPos0 = -1.36000013,-0.796958983,0.0639886335
-	rot = 0.70707047,-0.707070231,-0.00719234347,-0.00719255209
+	rot = -0.707068443,0.707068443,0.00737938285,0.00737941265
 	attRot = 0,0,0,1
 	attRot0 = 0.500000119,-0.5,0.49999994,0.49999994
 	mir = 1,1,1
@@ -18909,16 +18337,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -18935,6 +18353,16 @@ PART
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
 		{
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
@@ -18960,6 +18388,40 @@ PART
 				actionGroup = Custom04
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 600
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -19113,10 +18575,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-2.36317635, 8.80270195, -4.70171928)
-		originalRotation = (0.70707047, -0.707070231, -0.00719234347, -0.00719255209)
+		originalPos = (-2.52685261, 1.99099898, -5.35487747)
+		originalRotation = (-0.707068443, 0.707068443, 0.00737938285, 0.00737941265)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -19158,11 +18621,11 @@ PART
 {
 	part = bahaChaffPod_4284325382
 	partName = Part
-	persistentId = 1950050545
-	pos = 0.276056767,8.79571342,-4.43998623
+	persistentId = 3523057521
+	pos = 0.112380385,1.9838717,-5.09314823
 	attPos = -0.0394574404,-5.7220459E-06,1.1920929E-07
 	attPos0 = 1.36000025,-0.535139918,0.0656516477
-	rot = 0.707070351,0.707070351,0.00719234347,-0.00719249249
+	rot = -0.707068443,-0.707068443,-0.00737938285,0.00737941265
 	attRot = 0,0,0,1
 	attRot0 = 0.500000119,0.5,-0.49999994,0.49999994
 	mir = 1,1,1
@@ -19202,16 +18665,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -19228,6 +18681,16 @@ PART
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
 		{
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
@@ -19253,6 +18716,40 @@ PART
 				actionGroup = Custom03
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 600
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -19406,10 +18903,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (0.276056767, 8.79571342, -4.43998623)
-		originalRotation = (0.707070351, 0.707070351, 0.00719234347, -0.00719249249)
+		originalPos = (0.112380385, 1.9838717, -5.09314823)
+		originalRotation = (-0.707068443, -0.707068443, -0.00737938285, 0.00737941265)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -19451,11 +18949,11 @@ PART
 {
 	part = bahaChaffPod_4284324860
 	partName = Part
-	persistentId = 3465842045
-	pos = -2.36502886,8.79571342,-4.43998814
+	persistentId = 4195704299
+	pos = -2.52870512,1.9838717,-5.09315014
 	attPos = 0.0394573212,-7.62939453E-06,1.49011612E-07
 	attPos0 = -1.36000013,-0.535139918,0.0656516477
-	rot = 0.70707047,-0.707070231,-0.00719234347,-0.00719255209
+	rot = -0.707068443,0.707068443,0.00737938285,0.00737941265
 	attRot = 0,0,0,1
 	attRot0 = 0.500000119,-0.5,0.49999994,0.49999994
 	mir = 1,1,1
@@ -19495,16 +18993,6 @@ PART
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
 		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
 		AutostrutOff
 		{
 			actionGroup = None
@@ -19521,6 +19009,16 @@ PART
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
 		{
 			actionGroup = None
 			wasActiveBeforePartWasAdjusted = False
@@ -19546,6 +19044,40 @@ PART
 				actionGroup = Custom03
 				wasActiveBeforePartWasAdjusted = False
 			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 600
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -19699,10 +19231,11 @@ PART
 		name = AttachedOnEditor
 		isEnabled = True
 		active = True
-		originalPos = (-2.36502886, 8.79571342, -4.43998814)
-		originalRotation = (0.70707047, -0.707070231, -0.00719234347, -0.00719255209)
+		originalPos = (-2.52870512, 1.9838717, -5.09315014)
+		originalRotation = (-0.707068443, 0.707068443, 0.00737938285, 0.00737941265)
 		moduleVersion = 6
 		stagingEnabled = True
+		userReallyDeactivatedIt = False
 		EVENTS
 		{
 		}
@@ -19738,5 +19271,1379 @@ PART
 		hideFlow = False
 		isVisible = True
 		flowMode = Both
+	}
+}
+PART
+{
+	part = quizTechMk2ThunderboltCockpit_4284994570
+	partName = Part
+	persistentId = 2608437723
+	pos = -1.20816243,2.24768424,2.00257468
+	attPos = 0,-8.05590153,-1.90734863E-06
+	attPos0 = -1.20816243,10.303586,2.00257659
+	rot = 0.707106829,0,0,0.707106829
+	attRot = 0,0,0,1
+	attRot0 = 0.707106769,0,0,0.707106769
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 0
+	sameVesselCollision = False
+	modCost = 4132
+	modMass = 0.300000012
+	modSize = 0,0,0
+	link = Type35bombbay_4277992026
+	link = SmallGearBay_4284980488
+	attN = bottom,Type35bombbay_4277992026_0|-1.07949996|-0.0399999991_0|-1|0_0|-1.07949996|-0.0399999991_0|-1|0
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleCommand
+		isEnabled = True
+		hibernation = False
+		hibernateOnWarp = False
+		activeControlPointName = _default
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			MakeReferenceToggle
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			HibernateToggle
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleResourceIntake
+		isEnabled = True
+		intakeEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleSAS
+		isEnabled = True
+		standaloneToggle = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleReactionWheel
+		isEnabled = True
+		actuatorModeCycle = 0
+		authorityLimiter = 100
+		stateString = Active
+		stagingEnabled = True
+		WheelState = Active
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			CycleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Activate
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Deactivate
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Toggle
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleScienceExperiment
+		isEnabled = True
+		Deployed = False
+		Inoperable = False
+		cooldownToGo = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			DeployAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ResetAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleScienceContainer
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			CollectAllAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleDataTransmitter
+		isEnabled = True
+		xmitIncomplete = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			StartTransmissionAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 4132.0
+		OriginalResourcesCost = 0.0
+		OriginalModulesCost = 1332
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = HitpointTracker
+		isEnabled = True
+		Hitpoints = 1700
+		Armor = 10
+		ArmorRemaining = 100
+		ArmorTypeNum = 1
+		HullTypeNum = 2
+		hullType = Aluminium
+		SelectedArmorType = None
+		maxHitPoints = -1
+		ArmorThickness = 10
+		ArmorSet = True
+		ExplodeMode = Never
+		FireFX = True
+		FireFXLifeTimeInSeconds = 5
+		Density = 2700
+		Diffusivity = 237
+		Ductility = 0.600000024
+		Hardness = 300
+		Strength = 200
+		SafeUseTemp = 993
+		radarReflectivity = 1
+		Cost = 0
+		vFactor = 1.82712211E-06
+		muParam1 = 1.37732458
+		muParam2 = 2.04939008
+		muParam3 = 4.5333333
+		muParam1S = 1.92650819
+		muParam2S = 2.65274119
+		muParam3S = 7.37037039
+		HEEquiv = 0.210114747
+		HEATEquiv = 0.55794096
+		maxForce = 22
+		maxTorque = 22
+		maxG = 50
+		maxSupportedArmor = 80
+		armorVolume = 16.2223816
+		ignitionTemp = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleSelfSealingTank
+		isEnabled = True
+		SSTank = False
+		InertTank = False
+		armoredCockpit = False
+		FireBottles = 0
+		FBRemaining = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleResourceIntake
+		isEnabled = True
+		intakeEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		type = stack
+		active = True
+		available = True
+		currentScale = 1.25
+		defaultScale = 1.25
+		defaultTransformScale = (0, 0, 0)
+		DryCost = 2800
+		OriginalCrewCapacity = 2
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = GeometryPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARAeroPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ShipEffectsCollisions
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		isEnabled = True
+		stagingEnabled = True
+		moduleID = SimpleRepaint
+		currentSubtype = SR_Original
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AttachedOnEditor
+		isEnabled = True
+		active = True
+		originalPos = (-1.20816243, 2.24768424, 2.00257468)
+		originalRotation = (0.707106829, 0, 0, 0.707106829)
+		moduleVersion = 6
+		stagingEnabled = True
+		userReallyDeactivatedIt = False
+		originalAttachNodePos = (0.0, -1.1, 0.0)
+		originalAttachNodeSize = 1
+		originalAttachNodeOrientation = (0.0, -1.0, 0.0)
+		originalAttachNodeOffset = (0.0, 0.0, 0.0)
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleKrEjectPilot
+		isEnabled = True
+		minAirPressureToOpen = 0.0399999991
+		selectedChute = 0
+		ChooseOption = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			Eject
+			{
+				actionGroup = Abort
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTripLogger
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		Log
+		{
+			flight = 0
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	RESOURCE
+	{
+		name = ElectricCharge
+		amount = 100
+		maxAmount = 100
+		flowState = True
+		isTweakable = True
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
+	RESOURCE
+	{
+		name = IntakeAir
+		amount = 0.29999999999999999
+		maxAmount = 0.29999999999999999
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = False
+		flowMode = Both
+	}
+	RESOURCE
+	{
+		name = IntakeAtm
+		amount = 0.29999999999999999
+		maxAmount = 0.29999999999999999
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
+}
+PART
+{
+	part = SmallGearBay_4284980488
+	partName = Part
+	persistentId = 429252471
+	pos = -1.20816243,1.78086364,1.6434617
+	attPos = 0,0.0294593573,-0.191218555
+	attPos0 = 0,-0.388572067,0.658038974
+	rot = -0.0396480262,1.40949141E-10,-3.55219987E-09,0.999213815
+	attRot = 0,0,0,1
+	attRot0 = -0.734586239,-2.4121185E-09,-2.61145061E-09,0.678515434
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Heaviest
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	sameVesselCollision = False
+	modCost = 1046.40002
+	modMass = 0.0784799978
+	modSize = 0,0,0
+	srfN = srfAttach,quizTechMk2ThunderboltCockpit_4284994570,collider1,0|0|0,0|1|0,0|0|0
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleWheelBase
+		isEnabled = True
+		wheelType = FREE
+		isGrounded = False
+		autoFriction = True
+		frictionMultiplier = 1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActAutoFrictionToggle
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelSuspension
+		isEnabled = True
+		springTweakable = 1
+		damperTweakable = 1
+		autoSpringDamper = True
+		suspensionPos = (-1, -1, -1)
+		suspensionDefaultPos = (0, 0.0621026345, 0.925070405)
+		autoBoost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelSteering
+		isEnabled = True
+		autoSteeringAdjust = True
+		steeringEnabled = True
+		steeringInvert = False
+		angleTweakable = 30
+		responseTweakable = 2
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			SteeringToggle
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			angleTweakable
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+			responseTweakable
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelBrakes
+		isEnabled = True
+		brakeTweakable = 50
+		brakeInput = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			BrakeAction
+			{
+				actionGroup = Brakes
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleStatusLight
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelDeployment
+		isEnabled = True
+		shieldedCanDeploy = False
+		stateDisplayString = Deployed
+		stateString = Deployed
+		stagingEnabled = True
+		position = 1
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActionToggle
+			{
+				actionGroup = Gear
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FXModuleConstrainPosition
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FXModuleLookAtConstraint
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleLight
+		isEnabled = True
+		isOn = False
+		uiWriteLock = False
+		disableColorPicker = True
+		lightR = 0.875
+		lightG = 0.875
+		lightB = 0.875
+		castLight = True
+		movementTransformName = movementTransformName
+		isBlinking = False
+		rotationAngle = 0
+		pitchAngle = 0
+		blinkRate = 1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleLightAction
+			{
+				actionGroup = Light
+				wasActiveBeforePartWasAdjusted = False
+			}
+			LightOnAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			LightOffAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			lightR
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+			lightG
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+			lightB
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+			rotationAngle
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+			pitchAngle
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+			blinkRate
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelDamage
+		isEnabled = True
+		isDamaged = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleDragModifier
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleDragModifier
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleCargoPart
+		isEnabled = True
+		packedVolume = 140
+		beingAttached = False
+		beingSettled = False
+		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FundsKeeper
+		isEnabled = True
+		OriginalCost = 1646.4
+		OriginalResourcesCost = 0
+		OriginalModulesCost = 1046.4
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = StealBackMyFunds
+		isEnabled = True
+		active = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = HitpointTracker
+		isEnabled = True
+		Hitpoints = 300
+		Armor = 10
+		ArmorRemaining = 100
+		ArmorTypeNum = 1
+		HullTypeNum = 2
+		hullType = Aluminium
+		SelectedArmorType = None
+		maxHitPoints = -1
+		ArmorThickness = 10
+		ArmorSet = True
+		ExplodeMode = Never
+		FireFX = True
+		FireFXLifeTimeInSeconds = 5
+		Density = 2700
+		Diffusivity = 237
+		Ductility = 0.600000024
+		Hardness = 300
+		Strength = 200
+		SafeUseTemp = 993
+		radarReflectivity = 1
+		Cost = 0
+		vFactor = 1.82712211E-06
+		muParam1 = 1.37732458
+		muParam2 = 2.04939008
+		muParam3 = 4.5333333
+		muParam1S = 1.92650819
+		muParam2S = 2.65274119
+		muParam3S = 7.37037039
+		HEEquiv = 0.210114747
+		HEATEquiv = 0.55794096
+		maxForce = 50
+		maxTorque = 50
+		maxG = 50
+		maxSupportedArmor = 50
+		armorVolume = 4.33014059
+		ignitionTemp = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		type = free
+		active = True
+		available = True
+		currentScale = 140
+		defaultScale = 100
+		defaultTransformScale = (1, 1, 1)
+		DryCost = 1646.40002
+		OriginalCrewCapacity = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = MWNN_Stock_Paint_Landing_Gear_Body
+		persistentData = 0.7058824,0.7058824,0.7058824,0.1254902,0,1;0.7058824,0.7058824,0.7058824,0.1254902,0,1;0.7058824,0.7058824,0.7058824,0.1254902,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Alternate_Stock_Metallic_Landing_Gear_Struts
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KSPTextureSwitch
+		isEnabled = True
+		currentTextureSet = Alternate_Stock_Metallic_Landing_Gear_Wheel
+		persistentData = 0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1;0.9254902,0.9254902,0.9254902,0,0,1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = SSTURecolorGUI
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = GeometryPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARAeroPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARPartModule
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = RSE_Wheels
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ShipEffectsCollisions
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWaterfallFX
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = AttachedOnEditor
+		isEnabled = True
+		active = True
+		originalPos = (-1.20816243, 1.78086364, 1.6434617)
+		originalRotation = (-0.0396480262, 1.40949141E-10, -3.55219987E-09, 0.999213815)
+		moduleVersion = 6
+		stagingEnabled = True
+		userReallyDeactivatedIt = False
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScalerWaterfallFX
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleIREditorHelper
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
 	}
 }
