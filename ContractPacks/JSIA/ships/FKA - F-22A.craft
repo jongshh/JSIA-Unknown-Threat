@@ -684,12 +684,6 @@ PART
 		isVisible = True
 		flowMode = Both
 	}
-	VESSELNAMING
-	{
-		name = F-22A
-		type = Plane
-		priority = 10
-	}
 }
 PART
 {

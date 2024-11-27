@@ -819,12 +819,6 @@ PART
 		isVisible = True
 		flowMode = Both
 	}
-	VESSELNAMING
-	{
-		name = Dassault Rafale
-		type = Plane
-		priority = 10
-	}
 }
 PART
 {
